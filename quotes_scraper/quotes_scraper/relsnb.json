@@ -1,0 +1,7865 @@
+[
+    {
+        "ctref": "f3ac8c8e-5ae6-11ed-b7ed-56f5bb686307",
+        "tareas": [
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "f9417e2a-5ed3-11ed-ba4f-d207e38877db",
+        "tareas": [
+            "ins_pagar_iv"
+        ]
+    },
+    {
+        "ctref": "df8fdfdc-5ada-11ed-a1b5-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "b80951f4-5af4-11ed-8143-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "a3098082-589f-11ed-9d0f-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "f1545fce-5399-11ed-9ede-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "d7fe755a-5ac9-11ed-a4dc-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "d9013faa-5ac9-11ed-b9be-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "c6cfdd7c-5c46-11ed-972a-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "4c09551e-560b-11ed-abf1-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "e50cf35e-5ee1-11ed-9498-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "14ef71f2-5bc0-11ed-b628-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "32186aa8-5af4-11ed-823d-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "66a9cd46-5709-11ed-8706-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "28962fbc-53d1-11ed-a6d5-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "f6283cce-5712-11ed-8689-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "5b3b6588-5703-11ed-948d-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "174a1a3c-5b99-11ed-be30-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "499e7f40-fdc3-11ea-a9da-7e0bfacc7692",
+        "tareas": []
+    },
+    {
+        "ctref": "1326d28c-5eba-11ed-a36e-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "7c20c166-5c7c-11ed-b415-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "74d6debc-53b3-11ed-9e0a-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "657d4cd8-5635-11ed-8000-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "13f71a02-5bc0-11ed-9af1-b2995f6bd5a0",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "0cdbd1b8-5ee0-11ed-8d66-d207e38877db",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "02dff218-5637-11ed-b349-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "8717c4e4-5537-11ed-a38f-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "28067af8-547a-11ed-a070-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "0dc15b20-5ee0-11ed-b4b3-b2995f6bd5a0",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "dacbc7d8-5c63-11ed-ade5-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "b4fe4e12-5aca-11ed-8631-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "fe8c0f90-563f-11ed-b619-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "f703125e-5712-11ed-b0cf-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "028d6580-5640-11ed-85e9-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "66579d88-57b7-11ed-a27f-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "d6fba51a-570e-11ed-aabb-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "70be4502-5153-11ed-9779-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "5ad9f30e-53be-11ed-958b-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "b181a29a-5eb5-11ed-a4be-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "885fc7c4-53da-11ed-8e0c-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "1477032a-5bc0-11ed-a4bf-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "4632a602-5ba8-11ed-9f2a-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "b0e3ccd2-5eb5-11ed-8883-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "b01f3608-5c56-11ed-903c-b2995f6bd5a0",
+        "tareas": [
+            "ins_facturar_primeras",
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "28abdfce-5aed-11ed-b5c0-d207e38877db",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "b7c70992-5ac3-11ed-bdca-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "da472654-5c63-11ed-b4c6-b2995f6bd5a0",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "3017568e-5c42-11ed-b148-76e8b42b00ab",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "b45a62f4-5eb5-11ed-a971-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "1713f232-5b3e-11ed-a3c1-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "17d32be8-5b3e-11ed-a37d-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "515a9f5e-5aee-11ed-91bf-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "b989a504-5c4f-11ed-a676-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "074999e6-546e-11ed-a44d-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "c71abc38-56b6-11ed-b2b2-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "ffd38522-563f-11ed-b6a7-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "5afca536-5538-11ed-a72d-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "2749d618-53d1-11ed-8922-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "49133c88-5bee-11ed-b2cc-b2995f6bd5a0",
+        "tareas": [
+            "ins_esperar_liquidacion_primera",
+            "ins_recepcionar_nomina"
+        ]
+    },
+    {
+        "ctref": "df64548c-5b8b-11ed-ad2e-76e8b42b00ab",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "2b811afe-53a2-11ed-8a2f-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "02a8cc5c-5ede-11ed-89dd-b2995f6bd5a0",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "13693078-5eba-11ed-8525-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "917d59cc-5e9b-11ed-af6d-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "6996cc84-5c8b-11ed-854f-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "cb88b002-56e5-11ed-b8d2-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "ab5cf738-5ac9-11ed-8c4c-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "89805efe-5bbc-11ed-82a9-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "8a9e9fd0-5bbc-11ed-a6c8-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "e3baacf4-5639-11ed-8a52-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "8b0334a0-56c5-11ed-96eb-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "b9ba630e-5620-11ed-b283-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "72688680-55fc-11ed-b817-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "e3fb9880-5b7b-11ed-8bfb-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "719a4112-5ac5-11ed-a946-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "1f5b9400-57a0-11ed-a87d-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "c468e160-5c40-11ed-a773-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "c7409628-4e6a-11ed-ad55-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "c4bcaf7c-4fcd-11ed-8a3b-6274cfdb0210",
+        "tareas": []
+    },
+    {
+        "ctref": "da8038a0-5154-11ed-a760-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "82c5c2de-5478-11ed-9b21-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "1c000374-53d9-11ed-9192-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "9ca5bb02-50c0-11ed-9779-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "43d4188a-53e4-11ed-9eab-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "f00b7636-4bd6-11ed-9b2c-6274cfdb0210",
+        "tareas": []
+    },
+    {
+        "ctref": "b331352e-5eb5-11ed-bde1-d207e38877db",
+        "tareas": [
+            "ins_recepcionar_chi",
+            "ins_adj_soap_dealer"
+        ]
+    },
+    {
+        "ctref": "b4e2a574-5eb5-11ed-b06b-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa"
+        ]
+    },
+    {
+        "ctref": "b1bac3b8-5eb5-11ed-98ac-b2995f6bd5a0",
+        "tareas": [
+            "ins_recepcionar_chi",
+            "ins_retirar_placa"
+        ]
+    },
+    {
+        "ctref": "0f665b4c-5ee0-11ed-9600-d207e38877db",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "8484f036-5eb9-11ed-9c62-b2995f6bd5a0",
+        "tareas": [
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "34dabe30-5af4-11ed-8ed1-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "44e04b2c-5d03-11ed-8ab2-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "29834810-5aed-11ed-bdbf-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "6d4a80ba-5c3f-11ed-ae4d-76e8b42b00ab",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "6df9ac52-5c3f-11ed-8efc-76e8b42b00ab",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "ca2ac666-5e95-11ed-8c44-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "51224a00-5aee-11ed-bb19-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "29d42fb4-53d1-11ed-95ee-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "5f51fd24-57b4-11ed-8509-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "2d473812-56c4-11ed-a416-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "7a0dbe02-56d1-11ed-a436-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "209935ec-5684-11ed-b345-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "4e47e4a0-5578-11ed-b79d-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "f74a6a14-5712-11ed-9035-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "7ca0e218-5aa8-11ed-be4d-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "baa538d6-5574-11ed-b1b7-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "5186fd4e-5097-11ed-b9d6-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "8f7a8a04-516d-11ed-86b0-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "b3631968-5eb5-11ed-8907-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer"
+        ]
+    },
+    {
+        "ctref": "cc42c23c-5b93-11ed-88bd-d207e38877db",
+        "tareas": [
+            "ins_esperar_liquidacion_primera",
+            "ins_recepcionar_nomina"
+        ]
+    },
+    {
+        "ctref": "128da8b4-5eba-11ed-a2a7-76e8b42b00ab",
+        "tareas": [
+            "ins_recepcionar_chi",
+            "ins_adj_soap_dealer"
+        ]
+    },
+    {
+        "ctref": "c193d1ee-5ed3-11ed-9251-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "a70f1294-5d29-11ed-88bd-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "0edde046-5bc0-11ed-ba7b-76e8b42b00ab",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "10fa6780-5eba-11ed-8b10-b2995f6bd5a0",
+        "tareas": [
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "3c110ab4-5ec4-11ed-bdfa-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "5bf4b5a8-5e9f-11ed-9f14-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "70c3d76a-594b-11ed-9a08-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "2dccf3f6-5b35-11ed-ab13-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "ae78c50c-5540-11ed-99f2-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "86379450-5537-11ed-a296-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "8824a810-53da-11ed-a5e7-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "ff9e05a0-563f-11ed-a77a-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "47e156ca-5792-11ed-8132-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "e02a99a4-56d0-11ed-9649-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "3b31f610-5bba-11ed-9eaf-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "66ff9816-5c7c-11ed-9528-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "33d43016-5af4-11ed-be66-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "91a774c0-50b1-11ed-9430-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "5a1460ce-546f-11ed-9dcd-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "35236e60-5251-11ed-acc0-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "e349572c-5eac-11ed-9f81-d207e38877db",
+        "tareas": [
+            "ins_pagar_iv"
+        ]
+    },
+    {
+        "ctref": "4a1817d6-5e99-11ed-8e7d-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "003d4480-5640-11ed-8cae-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "eefb30ae-5eb6-11ed-82b3-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_incluir_nomina_cierre",
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "b730676e-5c74-11ed-90d8-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "1c55c5ac-5eb0-11ed-acba-b2995f6bd5a0",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "6df1425c-5ab8-11ed-b8e8-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "11100d94-5ee0-11ed-ac41-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "87b051d6-5abf-11ed-8026-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "8c2a81d8-5578-11ed-a12f-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "df95a362-56d0-11ed-b729-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "cad10804-5793-11ed-b104-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "c22f0f88-5703-11ed-a5fc-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "6e5f0388-5477-11ed-badf-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "99722568-54e1-11ed-8c1f-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "44ed49a6-549f-11ed-9e64-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "884af3f8-53ad-11ed-9de0-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "96fa79ae-53c2-11ed-b8c7-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "5e42438c-5b7c-11ed-8953-d207e38877db",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "8ccc22d2-5c39-11ed-aa85-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "671e5e74-5635-11ed-b947-d207e38877db",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "8d38a35e-4fea-11ed-a3d5-9afd8b7aa4e7",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "af78ac52-5c56-11ed-8f91-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras",
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "0f61b5a6-5bc0-11ed-9c39-b2995f6bd5a0",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "1055fd3e-4be2-11ed-be07-6274cfdb0210",
+        "tareas": [
+            "ins_gestionar_reingreso"
+        ]
+    },
+    {
+        "ctref": "9e727136-5eae-11ed-b830-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa"
+        ]
+    },
+    {
+        "ctref": "00ce2ac0-5ec1-11ed-9c21-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "08aa4456-5ad2-11ed-9cc2-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "118d0aac-56d8-11ed-999e-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "6d45c878-5ab8-11ed-afe0-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "5345115a-5481-11ed-8507-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "4865f8f4-560b-11ed-be3e-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "920a0d80-56cc-11ed-be6d-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "491ab0fa-560b-11ed-8778-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "11b3f89e-5eba-11ed-b618-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "4c822360-5703-11ed-98ff-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "de7b513c-5c40-11ed-87c6-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "32f1eca4-56d2-11ed-81a0-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "66e0d5f4-5180-11ed-ac0a-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "87e88f60-53da-11ed-ac2a-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "13b567c4-5bc0-11ed-b9fb-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "6c5bfba8-5ea5-11ed-867c-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "0e629788-5bc0-11ed-b6f9-76e8b42b00ab",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "b26c3ba2-5eb5-11ed-bbfa-76e8b42b00ab",
+        "tareas": [
+            "ins_adj_soap_dealer"
+        ]
+    },
+    {
+        "ctref": "9c82e96c-5d2a-11ed-8011-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "c455643c-5ea2-11ed-83d1-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "2a8c8352-594e-11ed-b24d-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "be91f746-56fe-11ed-bf41-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "10d79f68-5ee0-11ed-986c-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "51a356ce-5605-11ed-ad21-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "837c3cc8-5c55-11ed-83a4-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "2e2eec86-56ef-11ed-a8a5-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "011228c6-5640-11ed-a293-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "ad3d34ea-5561-11ed-9bb0-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "a5701f2e-5549-11ed-887c-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "95afcf8e-518a-11ed-adf5-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "40ce9402-5395-11ed-acea-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "4c5d4c62-4fcd-11ed-a62a-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "b7329696-4f14-11ed-b199-6274cfdb0210",
+        "tareas": []
+    },
+    {
+        "ctref": "03921dd8-50b7-11ed-92bd-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "cb29cd98-57d1-11ed-aed0-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "637f7b8c-5c65-11ed-9913-b2995f6bd5a0",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "492adc48-5942-11ed-9be2-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "0707e9ce-546e-11ed-87d0-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "c9af2de4-555d-11ed-9e6f-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "06a608ee-5793-11ed-9d0e-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "4b776142-5578-11ed-843a-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "a5b5cfea-56d1-11ed-9914-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "7b5b6a20-57ad-11ed-8362-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "8b8174e0-5bbc-11ed-8134-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "f871d166-5712-11ed-834c-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "16e5a940-54a9-11ed-9121-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "b5a0c680-5eb5-11ed-889c-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "87319848-5bbc-11ed-bfd6-d207e38877db",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "c0a334a0-4bdc-11ed-ac9d-ea08fa91bd7a",
+        "tareas": [
+            "ins_gestionar_reingreso"
+        ]
+    },
+    {
+        "ctref": "15b90a12-5bc0-11ed-8143-76e8b42b00ab",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "127fc4b2-5ee0-11ed-b8f1-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "c8943d80-5ed3-11ed-866f-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "7763f7d6-5d00-11ed-9656-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa"
+        ]
+    },
+    {
+        "ctref": "68cffaa0-5c8b-11ed-9acd-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "918109f0-5617-11ed-b7b6-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "91e61304-5617-11ed-9cab-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "833dc022-5bbc-11ed-ad0a-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "53ed6c34-5c50-11ed-9865-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "bdd82fd2-56fe-11ed-b456-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "59495bb8-56f9-11ed-be07-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "4d3b0c72-5578-11ed-a786-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "607cd0dc-5c84-11ed-b868-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "a8d2c5cc-5085-11ed-9830-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "7ac0dc98-5475-11ed-9dd9-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "da864fa0-4101-11ed-879e-665b1795c5de",
+        "tareas": []
+    },
+    {
+        "ctref": "2bcbe8d0-547f-11ed-af2d-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "3764d1b2-5ee2-11ed-b9ed-d207e38877db",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "f6a4b6a2-5ec7-11ed-ad40-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "73d325be-5d29-11ed-9e56-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "f38125ec-563d-11ed-8e2f-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "3c3fb2b4-55f6-11ed-b90d-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "8b861176-56fd-11ed-91bf-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "8afb4460-56fd-11ed-97b1-d207e38877db",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "33981068-5af4-11ed-9f44-d207e38877db",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "1c5cec78-5c40-11ed-a149-b2995f6bd5a0",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "b41fa434-5eb5-11ed-8924-76e8b42b00ab",
+        "tareas": [
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "76c6c3e4-5ebd-11ed-9bc6-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "fed7ee1e-53b1-11ed-aaa8-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "021b2794-5ede-11ed-b71a-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "dcc94b3a-5acb-11ed-823e-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "84877998-5561-11ed-9c16-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "f25b6710-5712-11ed-85d8-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "ff036144-563f-11ed-99eb-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "7c614e3c-5aa8-11ed-9031-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "59b8770a-56f9-11ed-809e-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "7f09e12c-5395-11ed-9442-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "97a97168-5eba-11ed-86ef-d207e38877db",
+        "tareas": [
+            "ins_adj_soap_dealer",
+            "ins_retirar_placa"
+        ]
+    },
+    {
+        "ctref": "894ce450-53da-11ed-9b0c-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "1a224ace-5cff-11ed-a0c4-b2995f6bd5a0",
+        "tareas": [
+            "ins_recepcionar_chi",
+            "ins_retirar_placa"
+        ]
+    },
+    {
+        "ctref": "cf0c9e2c-5ae2-11ed-bae7-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "b64fa326-5eb5-11ed-bf3f-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "85560182-5c7d-11ed-971c-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_incluir_nomina_cierre",
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "58e038e2-5c47-11ed-be90-b2995f6bd5a0",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "3cc246a6-5d13-11ed-829e-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "4c8a91fe-5eaa-11ed-9d0d-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "ab2194a4-5ac9-11ed-83f1-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "6a0ef708-54a3-11ed-b980-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "765bdafa-5ed3-11ed-82a4-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "00080a0e-5640-11ed-bbb2-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "02de3e82-5ede-11ed-9ac9-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "839771b6-5609-11ed-b6e7-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "f7d36600-5610-11ed-bb6e-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "58a8a7e0-56f9-11ed-83cb-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "85608602-5561-11ed-bf1e-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "8d86b762-563c-11ed-a0d7-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "46f9fa2c-56f8-11ed-8d36-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "eac114c2-5551-11ed-9d43-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "e199b8c4-56d0-11ed-8e55-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "5b2a3308-56f9-11ed-9fe7-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "21c75c28-5684-11ed-bfa0-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "9b054058-56e5-11ed-afe8-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "a2e7f422-5218-11ed-a0c5-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "1f69e258-53e0-11ed-b2d2-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "b1f3c550-5eb5-11ed-82c5-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa"
+        ]
+    },
+    {
+        "ctref": "8f7df248-5ece-11ed-8af6-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "5d4615bc-5ece-11ed-9f78-b2995f6bd5a0",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "863ef4be-5c7d-11ed-a09d-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_incluir_nomina_cierre",
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "8d892e50-4fea-11ed-8e96-6274cfdb0210",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "512d534e-5ac3-11ed-8209-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "6ad6a8da-5c8b-11ed-a2b8-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "03370bb0-5b83-11ed-98b8-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "339ce484-56d1-11ed-974c-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "d5cc1ae4-570e-11ed-a694-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "60e411e2-5ac8-11ed-aa2d-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "8bda6234-5578-11ed-bf3f-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "4e0ee6c8-5578-11ed-b285-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "42d2bd3a-5bbc-11ed-b70c-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "903becb0-5ab6-11ed-952c-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "184672c8-5149-11ed-b994-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "ce176dbe-5473-11ed-8729-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "8edb54b0-5529-11ed-b62c-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "207b0ece-5219-11ed-b863-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "af975388-50bb-11ed-9ab9-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "134aa9de-5ee0-11ed-ad30-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "889898ec-53da-11ed-8e02-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "a85dc978-5b77-11ed-850e-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "00a3b954-5640-11ed-8dbb-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "af16327e-5aea-11ed-8b58-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "84e98bd8-5ead-11ed-bc82-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "653833e6-5635-11ed-b4f4-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "7485115e-53b3-11ed-a134-9afd8b7aa4e7",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "66d1606a-5635-11ed-b3bc-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "028ad194-54a1-11ed-93c9-9afd8b7aa4e7",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "1ccc40d4-53ab-11ed-b0db-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "5c758138-5e9f-11ed-bbb2-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "5ce5ae60-5939-11ed-a792-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "4720a00c-560b-11ed-947f-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "cdbe7d86-5b93-11ed-8097-d207e38877db",
+        "tareas": [
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "8bc49e96-5bbc-11ed-bbee-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "3a803ab8-5608-11ed-85ca-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "8720d860-5643-11ed-8023-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "4f28d138-57a1-11ed-8e37-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "d1a28b8e-57ad-11ed-946e-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "99372d2c-56e5-11ed-9445-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "0f019492-53b3-11ed-96ec-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "83e8b2c0-5478-11ed-929f-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "49263b8e-4597-11ed-b2cf-62d86f2108e2",
+        "tareas": []
+    },
+    {
+        "ctref": "13fd6786-54a9-11ed-8753-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "bb924ca2-551f-11ed-b703-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "ff381e7a-563f-11ed-9a0c-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "034301a8-50b7-11ed-98f3-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "77d2bffe-5c79-11ed-88e0-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_incluir_nomina_cierre",
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "ee8f182e-5eb6-11ed-9ad1-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_incluir_nomina_cierre",
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "86ddb09e-5ab7-11ed-ad87-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "45db15fa-5ec2-11ed-a943-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "fe637cd2-57cb-11ed-ad03-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "88da1600-53da-11ed-8a27-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "060d66ae-5539-11ed-8705-d207e38877db",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "d4cdffa6-55f9-11ed-8d75-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "7dea0c08-56de-11ed-8767-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "d9e0fb64-5929-11ed-b10f-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "58d93806-56f9-11ed-bb2e-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "1155e4a4-5bc0-11ed-95ae-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "828e38d2-5c4d-11ed-aadd-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "ca245cbe-5796-11ed-af6f-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "8517dc1a-562c-11ed-947a-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "3fdfa182-5ba9-11ed-8b5b-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "1b440c1e-549c-11ed-9fe2-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "09d7dda4-5139-11ed-9550-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "81f8d77c-53b2-11ed-9482-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "ed6b9f1a-5486-11ed-88a0-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "5a8c0ede-5538-11ed-8f5c-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "f442ba26-2138-11ec-8e2c-fa54ab3b8a90",
+        "tareas": []
+    },
+    {
+        "ctref": "9d9fb2b2-53f2-11ed-b09f-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "efe99aca-5eb9-11ed-829e-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi",
+            "ins_adj_soap_dealer"
+        ]
+    },
+    {
+        "ctref": "102a4b7c-5eba-11ed-bc75-76e8b42b00ab",
+        "tareas": [
+            "ins_recepcionar_chi",
+            "ins_adj_soap_dealer"
+        ]
+    },
+    {
+        "ctref": "8803991a-5bbc-11ed-92b1-b2995f6bd5a0",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "16b0a2a4-5bc0-11ed-884c-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "01eba24e-5ede-11ed-9767-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "8cb93eb4-5c7b-11ed-aff2-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "5a4d464e-593f-11ed-a3a6-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "7bb23b08-56e9-11ed-9bdd-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "8fcc2018-5bbc-11ed-b07f-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "d7759870-5c63-11ed-9083-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "8fba9976-5b65-11ed-993a-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "3a7843c2-5eb8-11ed-bb4e-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "8ffc0c98-5625-11ed-8cd1-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "65223c70-57b7-11ed-ae9b-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "f4e3c180-5712-11ed-909a-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "5a1cc8b8-56f9-11ed-b3a6-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "a3242c0e-5474-11ed-a503-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "9c1b6782-53df-11ed-a754-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "49c643e8-5e99-11ed-9f1d-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "af48865a-56d7-11ed-b3d5-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "026e368c-5ede-11ed-8852-d207e38877db",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "b6909c78-5eb5-11ed-a14d-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "b8feddf8-5eb5-11ed-9a67-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "127d3742-5bc0-11ed-9ebf-76e8b42b00ab",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "3b636cd8-5ec4-11ed-81d6-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "835d42f0-5c7d-11ed-91c0-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "6f5202f8-5ba3-11ed-9ea1-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "fab82af4-570a-11ed-aef9-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "c371f6bc-56ea-11ed-8210-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "0641c762-546e-11ed-8501-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "ee6ec60c-5ee1-11ed-9a38-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "39e1a7ec-5bc9-11ed-91c8-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "e5276dc0-5625-11ed-a1eb-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "bd87fe02-5c5a-11ed-b931-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "1af7affa-5ab3-11ed-90cd-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "c6783f8a-56b6-11ed-a598-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "d3d00bc4-5551-11ed-80de-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "267a2aee-53d1-11ed-9602-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "e4b0a4b8-54a1-11ed-919a-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "e2062b50-5c6e-11ed-ab6c-76e8b42b00ab",
+        "tareas": [
+            "ins_comprar_soap",
+            "ins_recepcionar_chi",
+            "ins_retirar_placa"
+        ]
+    },
+    {
+        "ctref": "4fda6d3e-5ba3-11ed-baec-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "5d8002ae-5ece-11ed-84b7-d207e38877db",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "b7d1fe74-5eb5-11ed-bb92-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "1d9b1a1c-53ab-11ed-8abc-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "0cfc332e-5eb1-11ed-9a62-76e8b42b00ab",
+        "tareas": [
+            "ins_pagar_iv"
+        ]
+    },
+    {
+        "ctref": "3b33843c-5ec4-11ed-99a1-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "6915d4d0-5c8b-11ed-a019-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "74c67a90-5e9e-11ed-a812-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "d6f74678-5ac9-11ed-801e-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "bee368f0-5c54-11ed-a664-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "e50eca26-5536-11ed-9e91-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "ca7e3e6a-5bbe-11ed-9023-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "c7625778-56b6-11ed-8200-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "0b4136f8-5590-11ed-aa00-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "72583d0e-57f8-11ed-abff-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "42066a2e-58a0-11ed-a0e5-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "46e5189e-56d2-11ed-9365-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "35e49648-5af4-11ed-ade9-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "476d2ab6-5139-11ed-8803-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "46440d18-5539-11ed-a5a5-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "17bb228c-54a9-11ed-b545-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "3464abd2-5af4-11ed-a109-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "352196ca-5af4-11ed-b43b-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "13b8df6c-5ee0-11ed-afb2-d207e38877db",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "77978254-5ebd-11ed-91d3-b2995f6bd5a0",
+        "tareas": [
+            "ins_pagar_inscripcion"
+        ]
+    },
+    {
+        "ctref": "88f32868-5bbc-11ed-8a1e-b2995f6bd5a0",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "632f43ba-5c65-11ed-b3ab-76e8b42b00ab",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "811da712-5ae5-11ed-a234-d207e38877db",
+        "tareas": [
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "3bdf8598-5ec4-11ed-9268-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "080f98b2-546e-11ed-aa6c-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "76135672-5ed3-11ed-b46d-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "b9d1bf7a-57a8-11ed-82cd-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "e16faaae-5570-11ed-869a-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "72da9f7c-557a-11ed-b519-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "71e5cc76-5797-11ed-a4f5-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "866b33b8-5c59-11ed-b0d8-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "13fb777c-5c4d-11ed-898e-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "d1579a5a-5b83-11ed-bf71-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "296ecf16-53d1-11ed-97e0-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "5f0ba144-5ab1-11ed-b3a1-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras",
+            "ins_recepcionar_nomina"
+        ]
+    },
+    {
+        "ctref": "b55bbe50-5eb5-11ed-a9f8-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "b793dac2-5eb5-11ed-9a9c-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "de558016-5b8b-11ed-99fa-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "b4a81794-54a4-11ed-90d6-ea08fa91bd7a",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "e503bf16-514c-11ed-9266-9afd8b7aa4e7",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "7f4b4d00-5bb6-11ed-9ac1-b2995f6bd5a0",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "8a0b87b8-5bbc-11ed-bd11-b2995f6bd5a0",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "e8deeab0-5c5b-11ed-8368-b2995f6bd5a0",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "103edf80-5ee0-11ed-943c-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "e23fc572-5edf-11ed-912c-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "8327231e-5c7d-11ed-aa87-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "5d532484-5bbb-11ed-a3ed-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "bf6f71de-5c4e-11ed-85f3-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "c24a9608-5605-11ed-9ff1-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "20d5084c-5684-11ed-8f7d-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "d09fd994-53e3-11ed-89dc-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "1dd1f892-53d9-11ed-bf83-9afd8b7aa4e7",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "ef366730-5cc9-11ed-b3d8-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "48a02b8a-5bee-11ed-8e4e-b2995f6bd5a0",
+        "tareas": [
+            "ins_recepcionar_nomina"
+        ]
+    },
+    {
+        "ctref": "d8a57f4c-56ed-11ed-9339-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "817be14c-5bbc-11ed-8e43-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "b914dd3c-5c4f-11ed-b8ed-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "88b87c9c-56d8-11ed-aefa-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "ad5479c8-55f4-11ed-8154-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "99b68f54-56e5-11ed-9d33-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "6458dc36-57b7-11ed-8c4d-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "e53b7f4a-5607-11ed-a148-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "7f87a2aa-5544-11ed-a190-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "6300699c-552f-11ed-8d48-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "824cb812-5478-11ed-9578-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "ee6b6512-508f-11ed-a757-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "32e91eac-5b97-11ed-b6c6-76e8b42b00ab",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "b2ae83a4-5eb5-11ed-9b65-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "227c4bc6-5533-11ed-992d-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "1f4d81d2-53d9-11ed-95cf-9afd8b7aa4e7",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "89b62028-53da-11ed-93c0-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "695821e6-5c8b-11ed-b23a-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "7495cc1a-5e9e-11ed-96c3-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "5cb286f0-5e9f-11ed-a6f9-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "91397e92-594a-11ed-a64a-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "b1f73ee2-5703-11ed-83d9-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "255a4d8e-5d08-11ed-a146-76e8b42b00ab",
+        "tareas": [
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "120d25f6-5bc0-11ed-90fd-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "1d4737be-5edf-11ed-b002-b2995f6bd5a0",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "db015d26-5c63-11ed-9648-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "7048a4a0-5ac7-11ed-b16e-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "3848d0e0-5606-11ed-80dc-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "2490381a-5ae1-11ed-beaf-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "17978682-5ac7-11ed-b467-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "66226438-57b7-11ed-9416-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "318c6e36-553b-11ed-a0bd-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "d104af98-5c41-11ed-962d-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "0c123a7a-5ac5-11ed-906f-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "8cea57d6-561a-11ed-85fc-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "9d284742-5139-11ed-9130-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "d4e21c58-5eb3-11ed-9b1e-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_incluir_nomina_cierre"
+        ]
+    },
+    {
+        "ctref": "f1cf7010-5641-11ed-bea5-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "2c6c4f50-5cfe-11ed-966e-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "3db1737a-5c73-11ed-9476-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "e041c4fc-5b8b-11ed-b9b7-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras",
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "0df4ffd4-5ee0-11ed-afc8-76e8b42b00ab",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "1812ba42-5b3e-11ed-95a5-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "2156187e-5684-11ed-9d08-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "089a3fb2-546e-11ed-9c71-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "47bdc09e-560b-11ed-802f-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "63f4f0ec-5b84-11ed-979f-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "a62c915c-5497-11ed-be5a-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "d6029bbe-570e-11ed-b8ee-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "8fcfb432-5b6f-11ed-9a4d-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "fcb8eb4a-53e5-11ed-8204-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "b7e7a080-4966-11ed-bbbb-622a0ab66443",
+        "tareas": []
+    },
+    {
+        "ctref": "415aad6c-53e4-11ed-b191-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "155e32b8-54a9-11ed-a000-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "f7adea36-5cfc-11ed-8afd-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "347ce456-5c5a-11ed-85e9-d207e38877db",
+        "tareas": [
+            "ins_facturar_primeras",
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "77619716-5ebd-11ed-a3eb-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "30f83154-5adf-11ed-b798-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "9057780c-5bbc-11ed-bd48-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "87cfb29e-5bbc-11ed-a07b-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "4afda942-5578-11ed-b283-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "d63f212e-570e-11ed-8257-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "11b5b04a-5aa4-11ed-9be9-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "f8fb6052-56d1-11ed-ab24-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "48a54e5a-539a-11ed-8bdb-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "a8c20e66-53ba-11ed-8a90-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "b6d2cf66-56f5-11ed-bf73-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "48dc9ff2-5bee-11ed-ae5e-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "72794baa-5d27-11ed-bbd9-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "7dcbd1ac-5c7e-11ed-883a-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "ef30d97a-5eb6-11ed-b277-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_incluir_nomina_cierre",
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "7af8a9da-5cfd-11ed-8415-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "cd793f50-5b93-11ed-a631-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "0a98d46e-5567-11ed-b247-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "3259aeaa-5af4-11ed-b797-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "88a655ba-5bbc-11ed-96da-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "f82f109c-5712-11ed-a743-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "a3f60f28-5c56-11ed-b97a-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "45c99712-578d-11ed-ab58-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "35820aca-5acf-11ed-89dd-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "bcfff5ce-5639-11ed-8ab8-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "77980ddc-5ab7-11ed-8088-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "19d6f0ca-5ace-11ed-9ffa-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "b3dac442-5c7e-11ed-b2b1-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "b973b918-5620-11ed-a93e-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "1ac9ed92-556b-11ed-a9c8-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "8c97e254-563c-11ed-8609-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "9a3c0bf2-5c5d-11ed-bd7c-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "84d6f482-5561-11ed-b2ae-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "136f9474-5bc0-11ed-a2a7-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "fcc0bb38-5604-11ed-b160-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "3f8f868e-5ba9-11ed-9970-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "278ef4b4-53d1-11ed-a9ce-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "0d2195d2-50c5-11ed-8743-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "2cc81686-5476-11ed-af2a-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "42acda3c-53e4-11ed-a5cd-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "f5ae9740-5eb8-11ed-95a9-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa"
+        ]
+    },
+    {
+        "ctref": "1099f19a-5bc0-11ed-bb87-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "f6c3ac8c-5d0b-11ed-bf95-76e8b42b00ab",
+        "tareas": [
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "3afe29b8-5ec4-11ed-88e3-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "1648a0be-5b3e-11ed-a453-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "60ed8e22-5c47-11ed-b07a-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "cc091514-5b93-11ed-88e5-56f5bb686307",
+        "tareas": [
+            "ins_esperar_liquidacion_primera",
+            "ins_recepcionar_nomina"
+        ]
+    },
+    {
+        "ctref": "e12ef53e-56d0-11ed-8ff1-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "01ec28e6-5640-11ed-86aa-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "517f24be-56c5-11ed-a6bb-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "5ac0490c-56f9-11ed-b860-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "610af574-564e-11ed-9973-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "cbf45952-5531-11ed-b9f9-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "b039545e-556a-11ed-a288-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "17269f0e-54a9-11ed-a551-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "89603bfe-5d17-11ed-b697-76e8b42b00ab",
+        "tareas": [
+            "ins_pagar_inscripcion"
+        ]
+    },
+    {
+        "ctref": "4fdad7ec-5b80-11ed-866a-56f5bb686307",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "e0089844-579e-11ed-a0e9-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "afcd5662-5c56-11ed-8591-d207e38877db",
+        "tareas": [
+            "ins_facturar_primeras",
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "8631d3c0-53da-11ed-a1f5-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "66f9a7a8-5c8b-11ed-ac87-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "54a63db2-5b8e-11ed-99fe-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "c2908faa-5af6-11ed-a201-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "61660302-5c47-11ed-8000-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "b70c1ed8-56f5-11ed-bcd9-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "59117a72-56f9-11ed-8eda-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "d77ad642-56d1-11ed-bd33-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "e07f9f94-56d0-11ed-aeac-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "a7690424-4a47-11ed-9cc4-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "96bc6d8a-53c2-11ed-98eb-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "6656236a-4bda-11ed-96a5-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "b6942ba8-56f5-11ed-9917-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "dfd1c526-5b8b-11ed-abbf-d207e38877db",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "7fd466d0-5bb6-11ed-919a-b2995f6bd5a0",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "5f8b7c52-57b4-11ed-90a1-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "9d085084-5483-11ed-a36a-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "5a15e9b4-5c65-11ed-a7f8-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "7530f62e-5ed3-11ed-b929-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "94b1f464-5ec7-11ed-a36f-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "13142f1c-5ee0-11ed-b8e9-b2995f6bd5a0",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "dd0c2c48-5acb-11ed-902e-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "e9466a3c-5abc-11ed-962a-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "44ef6e04-5abf-11ed-9e5a-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "8d905818-5343-11ed-baf2-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "b9f5df0e-5eb5-11ed-96bc-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa"
+        ]
+    },
+    {
+        "ctref": "12f4f26e-5bc0-11ed-8e42-d207e38877db",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "2f7d1eb0-594b-11ed-8482-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "9e4f4468-5873-11ed-8640-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "536f71a2-5b8e-11ed-aba3-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "3e9b3eb4-5940-11ed-967a-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "7c72dfb6-56e9-11ed-ae0d-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "09083e96-5927-11ed-9770-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "53cc129e-34db-11eb-915e-f6da8fc519f9",
+        "tareas": [
+            "ins_esperarconfirmacion_srcei"
+        ]
+    },
+    {
+        "ctref": "077d195c-5ad0-11ed-b2d6-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "4af4d504-560b-11ed-90ab-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "d2e16be2-5af4-11ed-a7b1-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "9fd11894-56bf-11ed-88ae-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "8b6e13ac-561a-11ed-a852-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "8d000b2e-5bbc-11ed-b692-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "b1699c44-50c4-11ed-b7c7-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "828a81ec-5478-11ed-86e4-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "436f09a4-53e4-11ed-b292-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "17f56d52-54a9-11ed-a5e2-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "37c5ddaa-57ac-11ed-8b3c-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "c1613cb4-5b65-11ed-838e-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "1f15da48-53d9-11ed-a34b-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "cd00d60a-5b93-11ed-b842-d207e38877db",
+        "tareas": [
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "4a75a536-5160-11ed-8531-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "2c1908ec-5d29-11ed-936b-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "7af8b926-56e9-11ed-83e9-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "a58783c0-5941-11ed-93db-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "069c5862-55fe-11ed-9696-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "1e3abcce-53b1-11ed-ba8e-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "da37d7c4-56ed-11ed-81e6-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "1b5630fa-5aec-11ed-ac79-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "9abfaeee-56e5-11ed-b276-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "3b0bedec-5608-11ed-a41d-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "220eec5c-56c3-11ed-bde4-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "9c241e90-5b9b-11ed-b708-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "05656d0c-5465-11ed-a9c5-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "f7cffcf6-5474-11ed-8548-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "27d6ecd8-54a8-11ed-b6cc-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "495a3982-5e99-11ed-9622-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "a2662516-5eaf-11ed-a91f-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "4cc03648-563e-11ed-8bc5-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "c35d0458-5c7d-11ed-ba53-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "80496322-5bb6-11ed-bfa2-d207e38877db",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "6da18e78-5c3f-11ed-8958-76e8b42b00ab",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "0d4ac994-5eb1-11ed-a2b9-76e8b42b00ab",
+        "tareas": [
+            "ins_pagar_iv"
+        ]
+    },
+    {
+        "ctref": "83a51df0-5c7d-11ed-b668-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "6a54ccb2-4e52-11ed-9045-6274cfdb0210",
+        "tareas": []
+    },
+    {
+        "ctref": "25a2c352-5c36-11ed-9276-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "e909b60a-5abc-11ed-9b3d-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "d5522158-570e-11ed-9fe0-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "088c6d48-562f-11ed-b5b2-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "20c89cac-5c55-11ed-80c0-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "9c6e2d78-5bbe-11ed-8eec-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "5b228608-592e-11ed-a98e-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "b9f211ec-5395-11ed-aaa6-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "15f238a6-53ea-11ed-bb70-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "7bc7ac8e-4f57-11ed-8757-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "0d4db6fc-5ee0-11ed-a5e8-76e8b42b00ab",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "0d89b238-5ee0-11ed-b7db-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "c02c8cf0-5641-11ed-9cbf-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "eb6aa996-5ab6-11ed-90a1-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "6697b3fe-5b6e-11ed-8052-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "8505a5de-5c7d-11ed-ba67-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_incluir_nomina_cierre",
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "28ea2a90-5aed-11ed-bb9d-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "08ae6ee4-5c50-11ed-92fe-d207e38877db",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "1e7140f0-53d9-11ed-af67-9afd8b7aa4e7",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "93273f5e-5ea0-11ed-903f-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "6a583900-5c8b-11ed-8c0a-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "71fa7282-5d25-11ed-b55e-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "82dd0720-5c7d-11ed-8277-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "df753b06-467a-11ed-9f48-62d86f2108e2",
+        "tareas": []
+    },
+    {
+        "ctref": "d82b63ee-5c63-11ed-8114-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "74e264c8-5ed3-11ed-8eb7-d207e38877db",
+        "tareas": [
+            "ins_pagar_inscripcion"
+        ]
+    },
+    {
+        "ctref": "8914dee8-53da-11ed-a9af-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "1c06d5a6-560d-11ed-aa9c-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "f2e57edc-5712-11ed-8a67-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "3ff0b6cc-5562-11ed-8f70-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "d5113f8a-570e-11ed-b66f-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "e98567b4-5abc-11ed-b5ac-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "44a410d0-53e4-11ed-a86e-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "11e828d2-5ee0-11ed-bd92-d207e38877db",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "01003780-50b7-11ed-9747-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "b8c53b48-5ac3-11ed-b514-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "1e3cd356-53d9-11ed-897f-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "6e7a7102-5c3f-11ed-86d2-d207e38877db",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "12360098-5ebd-11ed-9957-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "4f27fdac-5ba3-11ed-ab22-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "00cbf94a-5ede-11ed-9457-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "94558f8e-5ea0-11ed-9df5-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "5697c532-5b8e-11ed-be12-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "ebf5c3b8-5616-11ed-b2ac-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "8e016d74-5bbc-11ed-825f-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "48bbc1a8-560b-11ed-97ab-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "03c5a9e0-546e-11ed-b2bd-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "498e35e6-5bee-11ed-a236-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "d61549a6-5616-11ed-bd00-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "cd0ca002-5607-11ed-a103-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "4a7d6104-560b-11ed-8a76-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "35b90f76-55fb-11ed-a3fb-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "b2b46bea-5571-11ed-87d9-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "4d9f47aa-5578-11ed-a397-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "671d6ca2-57b7-11ed-95b9-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "cbf5c47c-5aa4-11ed-b8db-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "d6b80616-570e-11ed-8313-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "bf15f030-522d-11ed-b626-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "0b477e98-af5d-11ec-beac-fe2780dcd8d1",
+        "tareas": []
+    },
+    {
+        "ctref": "4ca5107e-4663-11ed-b9a8-c2768c90c98c",
+        "tareas": []
+    },
+    {
+        "ctref": "6902f76c-4597-11ed-83e2-62d86f2108e2",
+        "tareas": []
+    },
+    {
+        "ctref": "921b2b4a-5b74-11ed-b16f-56f5bb686307",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "00934974-5ede-11ed-9841-d207e38877db",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "bca6d24e-5eb5-11ed-bdd5-d207e38877db",
+        "tareas": [
+            "ins_adj_soap_dealer",
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "1ee4e14a-5b95-11ed-a99f-76e8b42b00ab",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "86468efe-563d-11ed-bfd9-56f5bb686307",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "83e247a2-5c7d-11ed-9ea3-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_incluir_nomina_cierre",
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "082eb910-5c50-11ed-bdfc-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "b937f0a2-5ac3-11ed-a6e0-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "75c7b834-5ed3-11ed-96aa-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "7c84f83c-5d0a-11ed-9d7f-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "9251b51e-5617-11ed-a849-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "d4caea76-5704-11ed-85c9-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "89810020-5469-11ed-b0b2-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "be386bea-56fe-11ed-a703-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "e1e6f012-56d0-11ed-b761-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "8c9db584-561a-11ed-bedf-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "73640c9a-5790-11ed-9627-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "36299888-5af4-11ed-91d1-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "8cdad87a-563c-11ed-a973-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "3bf3b9f2-54a9-11ed-8355-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "fc765136-53e5-11ed-91df-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "29ada2ce-3f4d-11ed-ba3f-c2768c90c98c",
+        "tareas": []
+    },
+    {
+        "ctref": "4ccd6b50-4ff5-11ed-a4c4-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "8e944fb8-5e9b-11ed-91ca-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "152ff2f4-5bc0-11ed-a5d5-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "5be87aa2-5ece-11ed-8693-76e8b42b00ab",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "b93d647e-5eb5-11ed-99e9-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "2ffdf604-53a9-11ed-8efa-9afd8b7aa4e7",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "83efc1dc-5bbc-11ed-a5f1-d207e38877db",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "9dae09a2-4bdc-11ed-b29f-9afd8b7aa4e7",
+        "tareas": [
+            "ins_gestionar_reingreso"
+        ]
+    },
+    {
+        "ctref": "6408ed2c-5c65-11ed-bf8d-b2995f6bd5a0",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "13eeee48-5eba-11ed-bbb1-b2995f6bd5a0",
+        "tareas": [
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "d48db6e2-5704-11ed-8303-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "172ab4aa-5c6e-11ed-9d31-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "db8bb5e2-5629-11ed-a67f-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "f0857de0-5627-11ed-bec2-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "8e97c24c-5bbc-11ed-9cbd-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "11bbfa00-5ee0-11ed-ad30-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "cd6c3210-55fd-11ed-af03-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "d739b42c-570e-11ed-b2f3-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "4aa7823e-56f3-11ed-9b7a-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "a938f5b4-5570-11ed-83ba-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "132b6cd6-5616-11ed-ae83-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "cc4392d8-5acc-11ed-8b93-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "4f8e55e2-5578-11ed-aacc-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "2c80470a-5793-11ed-a94d-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "dadfffba-56f4-11ed-9886-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "8d1bed74-563c-11ed-a7b0-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "85a4d492-5561-11ed-87d1-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "2c5b7ca0-508f-11ed-9b12-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "cd528a88-53bc-11ed-867b-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "ae0dda98-5537-11ed-9f8d-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "757b7db6-5ed3-11ed-8ea4-76e8b42b00ab",
+        "tareas": [
+            "ins_pagar_inscripcion"
+        ]
+    },
+    {
+        "ctref": "3c2e99a6-5d27-11ed-9a9e-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "9bc89ba8-5c89-11ed-9550-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "e56bc96c-514c-11ed-bbe9-9afd8b7aa4e7",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "2f93a118-5c42-11ed-8e29-76e8b42b00ab",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "6d093420-5c3f-11ed-b0e7-d207e38877db",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "12b24932-5ee0-11ed-9c75-d207e38877db",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "8a5780f8-5ea2-11ed-96be-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "892cfb08-56d8-11ed-938f-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "1601b53c-5b3e-11ed-b316-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "6dd285de-57b0-11ed-aab8-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "0149afda-5640-11ed-98d9-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "40579d18-5ba9-11ed-a19b-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "d4d6f0fa-570e-11ed-8b74-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "413ab57a-5ae7-11ed-b9e7-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "0aab5742-556c-11ed-a33e-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "4094e246-5473-11ed-8652-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "446cdcf0-53e4-11ed-b9e4-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "43a0041e-53e4-11ed-98fe-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "9f0c326e-547f-11ed-9153-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "117cc630-5eba-11ed-8f8a-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "8557e56c-5d2a-11ed-bcf6-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "018154f8-54a1-11ed-aada-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "105b5186-5483-11ed-8d4c-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "11cc0f94-5bc0-11ed-b2b1-76e8b42b00ab",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "0e8cfe0e-55ff-11ed-8639-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "834dc94a-5c4d-11ed-b6c1-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "3421051c-5af4-11ed-9fed-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "801177b8-5bbc-11ed-ba9c-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "464b8fc0-560b-11ed-85d1-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "2a30eb00-53d1-11ed-9369-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "013c7490-5ede-11ed-96ee-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "01b76588-5ede-11ed-b301-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "630c3672-552b-11ed-a032-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "b58b801e-5abd-11ed-a573-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "bb185872-5af4-11ed-8e0f-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "2de97d04-56ef-11ed-afec-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "b1486ed0-546a-11ed-9e20-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "45347538-549f-11ed-899b-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "6e6a703a-5556-11ed-8bd3-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "26f32b42-53d1-11ed-9951-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "81962a5a-5547-11ed-8e4f-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "d2232fba-53d8-11ed-8dc8-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "9cd3e9a0-50c0-11ed-b176-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "b809ab8a-5eb5-11ed-ad59-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "d1513558-5eb1-11ed-ad5a-b2995f6bd5a0",
+        "tareas": [
+            "ins_pagar_iv"
+        ]
+    },
+    {
+        "ctref": "a2ccfb76-589f-11ed-802e-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "08e32438-5ad2-11ed-9456-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "1e93dd36-53b1-11ed-bc2d-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "b1bcccc6-5703-11ed-aca6-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "634f557e-552b-11ed-9cd5-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "8a8dd118-5d0c-11ed-a6fd-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "b9ff41c2-5620-11ed-8e0f-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "bade56f2-5574-11ed-b5e8-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "597d75ec-56f9-11ed-b97c-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "73a1a610-553b-11ed-8f68-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "79701714-54ac-11ed-ad17-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "4af050ec-5160-11ed-a0e1-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "c0d1aafa-5d08-11ed-acbf-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa"
+        ]
+    },
+    {
+        "ctref": "cdf7bcfa-5ea3-11ed-b5fe-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa"
+        ]
+    },
+    {
+        "ctref": "8604f462-5c7d-11ed-bb67-d207e38877db",
+        "tareas": [
+            "ins_incluir_nomina_cierre",
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "17272aa2-5ec5-11ed-b740-b2995f6bd5a0",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "b9fe6ee4-5ac3-11ed-9947-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "8efe692a-5e9b-11ed-b462-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "5577e650-5b8e-11ed-9fc2-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "88171714-5537-11ed-beed-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "89ea93a8-53da-11ed-a4e4-9afd8b7aa4e7",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "bdb8bc90-5ab1-11ed-b9f2-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "df522370-5618-11ed-83f8-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "3ac6db80-5608-11ed-91c8-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "0754d336-56d7-11ed-a5a8-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "655d001c-57b7-11ed-922b-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "85b84848-5646-11ed-aa90-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "8693d518-5bbc-11ed-a783-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "a59cdd82-5ba9-11ed-b6d3-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "cf880bd6-5ad1-11ed-a74d-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "af67b7d8-56db-11ed-bfe6-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "5f386bce-5625-11ed-b47b-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "1ac2d87e-549c-11ed-99b0-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "2f6e07d6-5b35-11ed-82cf-56f5bb686307",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "ccbe6900-5b93-11ed-92ae-56f5bb686307",
+        "tareas": [
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "f8bdce12-5c54-11ed-bb5d-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "20c58cda-56e5-11ed-9454-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "ee517fe6-5eb6-11ed-bb1a-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_incluir_nomina_cierre",
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "5fc32544-5cff-11ed-be06-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "4eee88be-5ac3-11ed-8ddb-d207e38877db",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "20209ee0-5eac-11ed-a4ec-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "d74d7be2-5ac9-11ed-a570-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "6e3fde6c-5ab8-11ed-9314-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "ad70880c-5c34-11ed-95fb-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "950830d6-5ec7-11ed-a927-b2995f6bd5a0",
+        "tareas": [
+            "ins_pagar_inscripcion"
+        ]
+    },
+    {
+        "ctref": "758c9a1e-5ac9-11ed-b7bd-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "58ba7cdc-55f9-11ed-b93b-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "9a814ee2-56e5-11ed-a5e4-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "0a6b98d0-56d6-11ed-bc7c-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "1bb65ecc-549c-11ed-b305-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "2844b52e-53d1-11ed-9d09-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "9a7bdf8c-50c0-11ed-b2bb-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "bb82cf6c-5eb5-11ed-bad3-76e8b42b00ab",
+        "tareas": [
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "6e20706e-57b0-11ed-b46e-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "11803484-5ee0-11ed-8af7-d207e38877db",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "b700974e-5eb5-11ed-9e22-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "8674643c-5c7d-11ed-af2d-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_incluir_nomina_cierre",
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "66048a2c-5635-11ed-a312-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "cdd77b3e-5c55-11ed-a3fb-76e8b42b00ab",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "10a87210-5ee0-11ed-86fd-d207e38877db",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "c87294a6-5eaf-11ed-a90f-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "2fb15004-5b35-11ed-b42d-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "85ace608-5bbc-11ed-81e8-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "bf5b7110-5c54-11ed-87b2-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "dbb499c0-5acb-11ed-962c-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "cc45931c-5928-11ed-a755-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "008f1c80-5ac6-11ed-a275-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "61f70436-57b7-11ed-99f7-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "022f348a-557b-11ed-9ec9-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "14b683ba-5bc0-11ed-bc0b-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "2e96441e-56f2-11ed-815b-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "7c1b8ea6-5571-11ed-8e56-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "4facfaee-555d-11ed-be21-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "7d71cbbc-58a0-11ed-bfc5-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "83755050-5478-11ed-8435-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "3cb82334-5538-11ed-ba58-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "ef98b9ec-546f-11ed-b971-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "2836cac2-518d-11ed-b8c8-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "a577482e-5497-11ed-8fed-ea08fa91bd7a",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "0fd33152-5eba-11ed-b189-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "f5861d38-563e-11ed-9bff-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "b8bf3720-5eb5-11ed-8fd4-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "98f10408-5165-11ed-ad87-ea08fa91bd7a",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "ceaec80e-53cd-11ed-983a-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "bc39f7b4-5eb5-11ed-96bf-76e8b42b00ab",
+        "tareas": [
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "84cf4ebc-5c7d-11ed-aa16-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "68d04e42-5ea2-11ed-89c0-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "abce1f44-5ac9-11ed-b9c9-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "2adec100-5483-11ed-9457-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "66c400e0-5609-11ed-922d-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "85e36b5a-5537-11ed-a9db-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "18f70248-5edf-11ed-b40b-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "00715b1c-5640-11ed-af95-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "311963e6-5af4-11ed-9d75-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "15f0cfb0-5bc0-11ed-91ce-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "8c87d57c-5578-11ed-8d84-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "e70e65bc-56e3-11ed-8b14-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "8ea9a6b8-5529-11ed-a455-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "2bdf154a-53a3-11ed-b390-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "a80ce7b0-5b77-11ed-9feb-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "06db0480-56b8-11ed-97db-56f5bb686307",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "c76468a6-558a-11ed-a9ec-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "29f4dcb4-5aed-11ed-b2c7-d207e38877db",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "2fd365d2-5c42-11ed-bdf8-d207e38877db",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "bb45ac2c-5eb5-11ed-ab75-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa"
+        ]
+    },
+    {
+        "ctref": "688915fe-5c8b-11ed-b633-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "0abb1b72-5ea0-11ed-aea0-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "7b57e00e-56e9-11ed-81af-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "2d287ad8-5b35-11ed-a1b4-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "82e759e4-5c4d-11ed-9405-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "e8e65878-5abb-11ed-aa98-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "0466dea0-546e-11ed-b817-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "530ee374-5c50-11ed-a67e-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "d30b1c98-5c3a-11ed-9a75-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "a1bb0fa6-563e-11ed-bfa2-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "f451b42a-5712-11ed-9cca-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "df632616-546a-11ed-a0d6-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "cc5cc4a8-4fb2-11ed-b423-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "9b86448a-50c0-11ed-b79d-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "5ccf01fa-5b65-11ed-914f-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "167268e4-5ae5-11ed-98f7-d207e38877db",
+        "tareas": [
+            "ins_incluir_nomina_cierre"
+        ]
+    },
+    {
+        "ctref": "adcae6fa-5ec1-11ed-b58e-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "a4b73122-4af3-11ed-990a-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "7c56d65e-4bd6-11ed-a476-6274cfdb0210",
+        "tareas": []
+    },
+    {
+        "ctref": "033311fc-546e-11ed-bcc5-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "ced1e012-5c3a-11ed-8a0e-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "2d8d7122-58ce-11ed-b7f1-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "d30b7c70-5608-11ed-ad11-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "31f049b0-5c4d-11ed-8d4f-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "bdaa491c-522d-11ed-8814-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "18f0aab4-54a9-11ed-89cd-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "f69260a6-56c5-11ed-a626-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "14310792-5eba-11ed-91ff-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "7b9123ea-5c80-11ed-86f3-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "494e092e-5c7c-11ed-9791-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "4f9ae988-5ac3-11ed-8dd8-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "10d5ee48-5bc0-11ed-b0d5-d207e38877db",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "08191d0a-5ad2-11ed-ac49-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "b95047f0-5c4f-11ed-bac8-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "53b6b36a-5c50-11ed-a4ce-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "226fcb40-5c6c-11ed-a52e-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "55a20218-5ba8-11ed-9f2b-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "9a3f5852-56e5-11ed-9bb0-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "5fdad2a8-57cc-11ed-8b6f-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "24066b78-5b89-11ed-a66e-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "896b5b42-5790-11ed-a00c-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "d72d58a0-5c39-11ed-9728-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "8b3a9638-5bbc-11ed-9e0f-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "6017a9da-57cc-11ed-a5a3-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "586ea374-56f9-11ed-9754-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "0e29f52c-5bc0-11ed-a558-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "4749421c-56f8-11ed-abce-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "bf6bf546-55f9-11ed-9652-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "85100938-562f-11ed-9fc2-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "86ffbd48-5ad4-11ed-a4e0-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "30be346c-553b-11ed-ae72-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "99322526-54e1-11ed-a3e4-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "7f675a2e-403e-11ed-81ee-665b1795c5de",
+        "tareas": []
+    },
+    {
+        "ctref": "428f208e-53ba-11ed-9c75-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "147be750-54a9-11ed-a29a-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "7d202956-5aa8-11ed-9595-76e8b42b00ab",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "7a814c74-5d06-11ed-a175-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "41eed48a-5ed2-11ed-8df0-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "b83c6ba6-5eb5-11ed-a625-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "ba33afe6-5eb5-11ed-b02b-76e8b42b00ab",
+        "tareas": [
+            "ins_adj_soap_dealer",
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "433494da-5c78-11ed-82fb-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "d5f904a0-560a-11ed-a25c-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "012a4b8e-5552-11ed-a9bd-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "17907c08-5b3e-11ed-9ffd-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "49d6d7e4-560b-11ed-a390-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "10560b7e-5bc0-11ed-90b1-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "aa79c948-5abc-11ed-b427-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "101ce4f2-5bc0-11ed-8da4-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "f5e50558-5712-11ed-8746-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "21187000-5684-11ed-9a1e-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "444218da-5475-11ed-8c69-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "a262cc26-53d4-11ed-857b-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "ecce3b2a-5473-11ed-9ed6-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "fc1dd774-4b37-11ed-8829-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "22cd4464-4597-11ed-b41e-c2768c90c98c",
+        "tareas": []
+    },
+    {
+        "ctref": "9bbad312-50c0-11ed-a5f3-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "07056fec-5229-11ed-add5-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "f53a2ca4-53df-11ed-ac2e-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "90dfeb92-5e9b-11ed-989a-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "c3a20f62-5eb7-11ed-b7a3-b2995f6bd5a0",
+        "tareas": [
+            "ins_pagar_iv"
+        ]
+    },
+    {
+        "ctref": "6ec377f0-57b0-11ed-aff9-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "03f7f0d4-5d2a-11ed-bf8c-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "7124ea8a-5ec5-11ed-9366-76e8b42b00ab",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "43a4bf44-560b-11ed-a6ea-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "d92ffba6-5c63-11ed-9289-b2995f6bd5a0",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "4f5f181e-5ba3-11ed-832f-76e8b42b00ab",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "8e427378-5bbc-11ed-8397-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "da872c9a-5c63-11ed-b41c-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "9ac82e16-5bbd-11ed-9a2c-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "70745340-5bab-11ed-8dd3-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "3686f938-5ad1-11ed-89a3-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "b51f7f0e-5c70-11ed-b64f-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "2eee2eac-56ef-11ed-8f5e-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "f5ae1248-5576-11ed-9418-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "857e918a-562c-11ed-85cb-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "66d0ae0e-5c57-11ed-96ff-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "42a41ba8-5183-11ed-97c4-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "32a7866c-5396-11ed-a057-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "d8b40d44-5154-11ed-9bc4-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "370af74e-4102-11ed-8a4d-665b1795c5de",
+        "tareas": []
+    },
+    {
+        "ctref": "ba0a592a-5492-11ed-b30f-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "130440ea-5ecf-11ed-8d18-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "7f7da18c-5aea-11ed-9c27-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "bad60c5a-5eb5-11ed-9ec3-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "b6c57826-5eb5-11ed-946b-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "75e625b0-53b3-11ed-9e56-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "1ffc6390-5c40-11ed-886e-d207e38877db",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "87643d14-53da-11ed-927b-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "0e990958-5ee0-11ed-98f9-76e8b42b00ab",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "3cd4d9fe-5d29-11ed-ac83-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "0330d79a-593f-11ed-a485-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "62ffc6c6-5616-11ed-80dd-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "6d96f518-5ab8-11ed-93f9-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "d7f800c6-5c63-11ed-bce4-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "3365c0da-56d1-11ed-8748-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "61b0e410-57b7-11ed-9fcb-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "e9466d52-4fcc-11ed-9624-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "a003f0b8-5abe-11ed-a799-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "5ed85678-5790-11ed-90d2-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "dc47f756-5acb-11ed-aa04-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "3378b91c-53b9-11ed-af1b-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "18e673b0-5188-11ed-a958-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "91c5c1da-5e9b-11ed-8d2d-b2995f6bd5a0",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "85c73ae6-5c7d-11ed-8630-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_incluir_nomina_cierre",
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "b1541f3a-5cff-11ed-9e3a-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "b577b2c4-54a4-11ed-8bbe-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "2916ee54-5aed-11ed-87f9-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "b449d53a-5d00-11ed-b390-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa"
+        ]
+    },
+    {
+        "ctref": "106fbf56-5ee0-11ed-b53c-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "5ce9e1c2-5e9f-11ed-900c-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "1753527e-5b3e-11ed-8b2a-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "d7371982-5c73-11ed-b4ea-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "63f973ee-5ab5-11ed-9f5a-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "8c9e14e2-5634-11ed-a51d-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "0cbc19a4-5792-11ed-a888-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "4cd03e6a-5578-11ed-9f86-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "10e6c47c-5713-11ed-b52f-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "3d8f08cc-5560-11ed-8de7-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "5a42eb00-5538-11ed-ba62-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "c33fc6de-5469-11ed-bb28-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "77f089dc-49a3-11ed-a445-622a0ab66443",
+        "tareas": []
+    },
+    {
+        "ctref": "f2a98f2e-9716-11ec-947f-fe2780dcd8d1",
+        "tareas": []
+    },
+    {
+        "ctref": "9d9cdbe4-50c0-11ed-8466-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "18b09d70-54a9-11ed-b82c-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "1574555c-5bc0-11ed-87e3-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "83edc06c-5d2e-11ed-968e-d207e38877db",
+        "tareas": [
+            "ins_pagar_inscripcion"
+        ]
+    },
+    {
+        "ctref": "9c44250a-5bc8-11ed-a37f-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "1e0dad88-53d9-11ed-82e5-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "13878e44-5ee0-11ed-a016-d207e38877db",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "88731790-5b8f-11ed-a24d-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "772abcdc-5ebd-11ed-9cda-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "085f7e4e-5ad2-11ed-b989-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "2172882a-5c5a-11ed-b4c5-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "84306644-5561-11ed-8339-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "4c2c0430-5703-11ed-8a0a-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "3f60e022-5c6c-11ed-8e24-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "4097742e-5ba9-11ed-aa1c-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "fd3d6180-57bf-11ed-8c90-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "c88bc814-56b6-11ed-a0e1-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "9b068aa4-55f9-11ed-8650-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "14308fbc-5bc0-11ed-a0bd-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "749a0ddc-547d-11ed-8854-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "74f7aca2-53e3-11ed-a450-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "bb5a7816-5215-11ed-a048-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "f5a9e5da-554c-11ed-8f46-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "0fae3bf8-5547-11ed-a395-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "14b2c5f4-54a9-11ed-9ffd-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "11150a7e-5bc0-11ed-aa28-b2995f6bd5a0",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "f3ed2f1e-5ed3-11ed-ab32-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "1472056c-5eba-11ed-97ae-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "a7e545ec-5ea2-11ed-93e4-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "d1b70422-56d3-11ed-b07a-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "86407670-5bbc-11ed-bac0-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "856de9e4-5bbc-11ed-bb64-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "2dad1a76-56ef-11ed-8f39-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "01b5c3aa-5640-11ed-bcb5-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "6e0e2f24-5217-11ed-bd94-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "49158e2a-5469-11ed-beea-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "17787d10-54a9-11ed-bc8d-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "18aacd60-5188-11ed-9e15-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "479d2ba6-5ea1-11ed-9847-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa"
+        ]
+    },
+    {
+        "ctref": "efb7f5c0-5cc9-11ed-acf7-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "11bf324c-5ebd-11ed-8530-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "f8a66c7a-570b-11ed-8ddf-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "2a2306ca-5aed-11ed-a1cb-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "75977456-53b3-11ed-8253-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "1d355dc6-53ab-11ed-ba18-ea08fa91bd7a",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "8d98f46a-5bbc-11ed-bd32-76e8b42b00ab",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "d87218a2-5c63-11ed-b77a-d207e38877db",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "88bb5dfc-5469-11ed-ab70-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "f7a13074-5c7b-11ed-a042-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "764ed672-5ebd-11ed-a421-b2995f6bd5a0",
+        "tareas": [
+            "ins_pagar_inscripcion"
+        ]
+    },
+    {
+        "ctref": "fed5199c-563f-11ed-98fd-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "c8437aaa-56b6-11ed-90f7-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "b2a3bafc-562f-11ed-ab2d-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "7cbdea08-5b7e-11ed-ad89-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "639127a4-57b7-11ed-a161-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "63d15f68-57b7-11ed-be49-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "d7b74db0-5c63-11ed-b40f-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "cba11ec4-53d6-11ed-aa3a-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "c039c98c-5566-11ed-af0b-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "582a0b3e-3902-11ed-8565-665b1795c5de",
+        "tareas": [
+            "ins_esperarconfirmacion_srcei"
+        ]
+    },
+    {
+        "ctref": "106debca-5eba-11ed-9136-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "3a7964d6-5c48-11ed-821d-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "7538422e-53b3-11ed-a4d9-ea08fa91bd7a",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "0f1c4de0-5bc0-11ed-b5c7-b2995f6bd5a0",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "0e0dd5d8-5eb1-11ed-b043-d207e38877db",
+        "tareas": [
+            "ins_pagar_iv"
+        ]
+    },
+    {
+        "ctref": "12003238-5ebd-11ed-bc5e-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "78d7bd44-5eab-11ed-af5c-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "8aebd0f8-553f-11ed-8f9c-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "32982716-5af4-11ed-82aa-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "612c04a4-5c47-11ed-a4a6-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "0f350bf0-5ee0-11ed-93a7-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "8c83a64c-5bbc-11ed-bdee-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "cbcba90e-56c5-11ed-b2c3-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "669b1c48-57b7-11ed-ac71-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "0b3828b2-5ac0-11ed-b909-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "8878aa40-56d8-11ed-ba96-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "89e3a0b4-5ab2-11ed-9a9b-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "73f669c4-53d9-11ed-9993-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "5d835e32-53dd-11ed-9475-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "2802195a-5483-11ed-9948-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "9ccbce02-5492-11ed-83f5-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "3bc384c6-54a9-11ed-9be0-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "14ee4a52-54a9-11ed-b4dd-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "9c492cde-50c0-11ed-9fa7-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "db0b3368-5561-11ed-a738-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "6e8ced84-57b0-11ed-bfd9-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "7c318cf8-552e-11ed-9832-d207e38877db",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "c74ff22e-5ea7-11ed-a8b7-76e8b42b00ab",
+        "tareas": [
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "74f8cd1a-5e9e-11ed-8bb1-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "508fc374-591d-11ed-a0d0-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "87727fca-5bbc-11ed-aeb6-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "843e96d6-5bbc-11ed-b7b3-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "f98046ee-5c37-11ed-accc-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "77497d62-557f-11ed-b25f-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "64156a50-57b7-11ed-8fb2-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "2ef408ba-5b9d-11ed-83eb-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "071e3c5c-5576-11ed-980a-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "2571c774-53d1-11ed-a764-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "1cbe6b08-513f-11ed-a7b5-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "161f996c-54a9-11ed-9f7d-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "166ea9a8-5bc0-11ed-a65b-76e8b42b00ab",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "e2b0f63c-5d06-11ed-9123-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa"
+        ]
+    },
+    {
+        "ctref": "a8abae22-5b77-11ed-b408-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "02579a90-5640-11ed-984e-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "1f072500-5c8c-11ed-9652-76e8b42b00ab",
+        "tareas": [
+            "ins_gestionar_tag",
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "cd3cf144-5b93-11ed-8f97-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "92792072-5ea0-11ed-a5e6-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "6741a6ca-5c8b-11ed-8500-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "8418b120-5c7d-11ed-829e-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "3238b540-592a-11ed-b1e4-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "7e078d18-5c48-11ed-84f9-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "46c9045a-560b-11ed-9e7a-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "2136d816-5c5a-11ed-b810-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "67595046-57b7-11ed-ad88-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "4ee56950-5578-11ed-8473-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "93b8d918-5af0-11ed-b1d5-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "3532b8c4-56e9-11ed-bd6c-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "c6c0e20a-5af6-11ed-8eb3-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "f55d59f0-5712-11ed-a766-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "6c601aca-57a8-11ed-bbf8-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "3b6ec81a-5bba-11ed-af84-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "f4816090-5545-11ed-8518-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "f70d1dea-553b-11ed-9cb2-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "af42f8a8-972e-11eb-b1fe-32cdd6b4b04d",
+        "tareas": []
+    },
+    {
+        "ctref": "bbdd486a-551f-11ed-a74f-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "baa05c5e-5eb5-11ed-8379-d207e38877db",
+        "tareas": [
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "1e3104f2-5eb7-11ed-875b-b2995f6bd5a0",
+        "tareas": [
+            "ins_pagar_iv"
+        ]
+    },
+    {
+        "ctref": "13a8de80-5eba-11ed-b3ea-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "3745f5f4-5ea0-11ed-9c42-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "308206f6-53a9-11ed-950e-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "df0e0c80-5b8b-11ed-a9b2-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "12e38bdc-5ee0-11ed-851f-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "76a3101e-5ed3-11ed-8502-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "d9ffaab8-5c63-11ed-ba0e-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "31d78150-5af4-11ed-b97f-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "f4065b06-5712-11ed-93a1-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "a23d503a-555b-11ed-8bde-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "26322d34-53d1-11ed-9cb2-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "3357fdde-5af4-11ed-b941-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "f2a19e1a-5712-11ed-b14e-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "4cea4658-563a-11ed-9fb5-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "54b9c85a-5bc0-11ed-b970-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "15f0e3de-5471-11ed-8bdb-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "74664d34-5479-11ed-b35b-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "3424de96-5c5a-11ed-8494-d207e38877db",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "46199666-2eef-11ed-bbba-62d86f2108e2",
+        "tareas": []
+    },
+    {
+        "ctref": "5f5de454-5d04-11ed-b0aa-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa"
+        ]
+    },
+    {
+        "ctref": "c6ebb1f6-556a-11ed-88af-d207e38877db",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "d8136f64-560a-11ed-afc9-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "01888438-5552-11ed-a9d5-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "0fd819e4-5bc0-11ed-ab48-b2995f6bd5a0",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "7622d77e-5ac7-11ed-ba16-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "8088c93a-5473-11ed-ac0a-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "efe18bb2-5146-11ed-96f2-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "b5a9bfa0-508d-11ed-9e16-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "24d22d90-53d1-11ed-972b-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "ef45f078-d3aa-11eb-bc8b-4a6f0e82709e",
+        "tareas": []
+    },
+    {
+        "ctref": "9b89f63a-53e4-11ed-a765-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "16a4da5a-54a9-11ed-bec2-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "c362f4a0-4c95-11ed-87e9-6274cfdb0210",
+        "tareas": []
+    },
+    {
+        "ctref": "0e4fcaec-5eb1-11ed-9807-b2995f6bd5a0",
+        "tareas": [
+            "ins_pagar_iv"
+        ]
+    },
+    {
+        "ctref": "2ed56716-5d00-11ed-9dc2-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "4f46b50c-5ac3-11ed-a461-d207e38877db",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "c2d81912-56e9-11ed-a994-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "69d880de-5c8b-11ed-973b-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "1767dd08-5c6e-11ed-a7b1-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "d85562ca-5ac9-11ed-a0ac-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "920851e0-570b-11ed-8c19-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "2f2684e2-5b35-11ed-84e6-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "67c36d78-56d6-11ed-8a5f-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "f2afa060-594b-11ed-908b-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "8c46b4a8-5bbc-11ed-bbb3-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "87a661d0-53da-11ed-959e-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "f5a40706-5712-11ed-81b5-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "79d09e96-56d1-11ed-928f-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "201fccca-5571-11ed-bc12-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "98ad352c-56e5-11ed-8cdc-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "c6d5800a-56b6-11ed-ab82-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "8796d5b8-56d1-11ed-aa55-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "3af97da8-5bba-11ed-a420-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "0ac8323a-5626-11ed-94f9-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "12952274-54b5-11ed-b344-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "dc359696-53dd-11ed-86d5-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "99d3744e-54e1-11ed-95db-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "cf54eb4e-5148-11ed-8e84-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "8e8a3dc0-557c-11ed-9a3f-56f5bb686307",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "b2245c12-563e-11ed-ba14-d207e38877db",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "ca4f445e-5d01-11ed-84fe-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "92d865dc-5ea0-11ed-8b4c-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "1eeb2334-53b1-11ed-a83b-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "c3bf5cf4-56ea-11ed-a1c6-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "5ab54598-55ff-11ed-9e53-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "5514f478-5b8e-11ed-bfc1-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "07caef50-546e-11ed-89b4-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "02e37598-546e-11ed-be2e-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "c1383ee6-5ed9-11ed-bf62-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "8a097caa-5ae7-11ed-8292-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "5967b4aa-56cc-11ed-a783-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "55e5d3bc-56d5-11ed-b455-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "218d22d8-5684-11ed-8cd7-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "5a8c1902-56f9-11ed-9dfa-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "e250c99e-57be-11ed-b83e-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "d678e3dc-570e-11ed-82b0-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "4f36722a-56cf-11ed-a0ca-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "915669b8-50b1-11ed-9b3d-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "389c1fd0-54a7-11ed-a2e2-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "92b2acae-5552-11ed-b572-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "5ebca7c6-53a2-11ed-a5eb-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "0290acba-5c56-11ed-9b95-b2995f6bd5a0",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "7d5b6818-5aa8-11ed-b55b-76e8b42b00ab",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "37801842-5ea0-11ed-9d0c-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "848f1b08-5c7d-11ed-bb36-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_incluir_nomina_cierre",
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "501ec376-5ba3-11ed-846a-d207e38877db",
+        "tareas": [
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "6a948ba8-5c8b-11ed-b0e1-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "5b0747a0-5c65-11ed-b659-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "041eb6d4-546e-11ed-be05-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "568957da-55f9-11ed-abc0-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "83904cca-5bbc-11ed-be53-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "fd049394-5604-11ed-ba49-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "9035a37e-579f-11ed-8a02-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "866a4638-5646-11ed-a732-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "82ef7354-5bbc-11ed-b1ff-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "1634c850-5bc0-11ed-8cd6-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "8ca4273c-508b-11ed-8f4e-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "5ac75836-5538-11ed-9401-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "d97ca574-5154-11ed-913a-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "42076944-53e4-11ed-928b-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "655c966a-5b84-11ed-81d7-76e8b42b00ab",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "0f9951fa-5bc0-11ed-b759-b2995f6bd5a0",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "9cb904dc-5d27-11ed-9ed0-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "8591ceec-5c7d-11ed-9dc8-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_incluir_nomina_cierre",
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "b2b9d4be-5c78-11ed-8b2e-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "2a89443a-5aed-11ed-ae60-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "fe4c54dc-558a-11ed-9d14-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "820d035c-5bbc-11ed-9d23-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "529192d0-5c5e-11ed-b2e3-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "54265206-5c50-11ed-b531-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "e2f738b4-5e9f-11ed-b1ec-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "d49b654e-570e-11ed-812d-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "103e98de-5bbd-11ed-918e-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "62907e2c-57b7-11ed-8006-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "07ba79f0-5c56-11ed-b5bd-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "33199bf2-5af4-11ed-9851-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "287938fe-5790-11ed-a14e-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "63500c60-57b7-11ed-b51a-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "f7e9a570-5712-11ed-96d1-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "8cdce9a6-5634-11ed-8bfd-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "7cbe2e9a-554e-11ed-9454-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "16d5f9ec-5534-11ed-a40c-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "e7b35a20-53b6-11ed-b398-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "443c635e-53e4-11ed-82b4-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "4278c0da-53e4-11ed-af12-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "bed461ea-5eb9-11ed-a49b-76e8b42b00ab",
+        "tareas": [
+            "ins_adj_soap_dealer"
+        ]
+    },
+    {
+        "ctref": "0d7c0ae0-5ae7-11ed-affe-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "7ce4c28a-5aa8-11ed-b32b-76e8b42b00ab",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "74874bbc-53aa-11ed-aa9b-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "2a4be9d2-5aed-11ed-8405-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "57fdab38-56f9-11ed-a52a-56f5bb686307",
+        "tareas": [
+            "ins_recepcionar_nomina"
+        ]
+    },
+    {
+        "ctref": "8454da06-5c7d-11ed-8092-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "d87e27d2-560a-11ed-8b4f-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "ec32d14a-5bc0-11ed-a63b-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "812e9586-5bbc-11ed-8e0d-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "12a7d8c0-5b8a-11ed-9690-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "65e20cee-57b7-11ed-b040-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "4e7aab10-5578-11ed-b398-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "f3bca36c-5712-11ed-b413-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "8c5b530a-5634-11ed-8ed7-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "8c0a8cb4-561a-11ed-90c2-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "81fa8cfe-5478-11ed-94d0-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "276915f4-521a-11ed-9472-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "edce405a-54a6-11ed-8e4b-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "b39bbda4-5eb5-11ed-bfb1-b2995f6bd5a0",
+        "tareas": [
+            "ins_recepcionar_chi",
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer"
+        ]
+    },
+    {
+        "ctref": "9363a686-5aec-11ed-b464-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "35f6259e-56ca-11ed-b81b-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "b5e05b3a-54a4-11ed-b548-ea08fa91bd7a",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "d9b16a2e-5c63-11ed-9672-76e8b42b00ab",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "0e628d06-5ee0-11ed-935a-d207e38877db",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "e48e91f0-5d09-11ed-bee9-d207e38877db",
+        "tareas": [
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "82804842-593e-11ed-80a9-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "d9c82d48-56ed-11ed-b5c9-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "d8f61148-5c63-11ed-a3b0-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "4e266360-5790-11ed-9adb-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "eaa88500-5aa2-11ed-babd-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "dee21e90-5c5d-11ed-ab75-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "f0cf2dbe-5627-11ed-843a-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "0e9da076-5bc0-11ed-b55f-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "5a6af61c-546c-11ed-bf0b-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "ce13547c-5464-11ed-af9e-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "45894112-549f-11ed-9cb4-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "be6c9fb2-522d-11ed-86d1-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "1523676e-54a9-11ed-bc92-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "4195f17e-53e4-11ed-afce-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "18dc2cf4-56ef-11ed-8e57-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "283466c6-5c7b-11ed-b935-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "4bf67d44-5ea4-11ed-96ba-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "2bc026b6-5ea3-11ed-a116-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "2ee302b2-5b35-11ed-8edb-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "8f254c3e-5bbc-11ed-a70c-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "7921cf98-5ac7-11ed-a670-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "a43e6ad0-5606-11ed-9624-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "33d6c816-56d1-11ed-922a-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "e1001d90-5608-11ed-9636-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "5ad8efbc-56cb-11ed-9424-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "20501664-5684-11ed-88de-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "70c4f3d6-402b-11ed-9b8c-c2768c90c98c",
+        "tareas": []
+    },
+    {
+        "ctref": "c5fa76c6-891c-11ec-a226-fe2780dcd8d1",
+        "tareas": []
+    },
+    {
+        "ctref": "499a3642-3f61-11ed-9017-62d86f2108e2",
+        "tareas": []
+    },
+    {
+        "ctref": "49bc59c8-5160-11ed-bbb8-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "8f5db3da-5e9b-11ed-b749-d207e38877db",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "034b2d62-5d21-11ed-b02b-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "5830c522-56f9-11ed-9d12-56f5bb686307",
+        "tareas": [
+            "ins_recepcionar_nomina"
+        ]
+    },
+    {
+        "ctref": "1b21e626-5ec3-11ed-baab-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "89033636-5469-11ed-a54c-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "759fdfa0-5d05-11ed-b307-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "6784a4b6-5c8b-11ed-97e4-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "d98b9c02-56ed-11ed-91b9-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "885a1844-5bbc-11ed-8ab6-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "04b33318-546e-11ed-8209-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "9fa2a26e-57a7-11ed-8a11-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "98ed3e92-56e5-11ed-8aa3-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "52d57ee6-592a-11ed-859b-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "c0ae70d4-5b7e-11ed-8af3-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "5a589d52-56f9-11ed-8c86-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "64d57c1e-57b7-11ed-8b96-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "f55286b2-5576-11ed-bafd-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "9f058692-57a6-11ed-aaba-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "4596015c-54a6-11ed-81a0-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "b477069e-53a6-11ed-b473-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "f383383e-5546-11ed-b656-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "761124f0-5538-11ed-9783-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "895a9930-022f-11ed-be86-3a9cb2431e73",
+        "tareas": []
+    },
+    {
+        "ctref": "9d696fa4-53f2-11ed-b1bd-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "016da8da-5ede-11ed-b25a-d207e38877db",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "5493a0d2-5182-11ed-ad6b-9afd8b7aa4e7",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "909772c2-5e9b-11ed-aa55-b2995f6bd5a0",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "5af70f28-56f9-11ed-80d3-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "80cee77c-5bb6-11ed-a9a1-b2995f6bd5a0",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "0ffab076-5ee0-11ed-bbac-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "4d6b17a2-5ee0-11ed-bb5e-d207e38877db",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "1191b240-5bc0-11ed-8ccc-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "d7aa4e44-560a-11ed-be4d-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "d6d888fa-560a-11ed-a686-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "d79fe6ca-5ac9-11ed-8ba6-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "08e1f514-546e-11ed-bd2e-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "ac633298-55f4-11ed-b936-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "8c1bc1f4-5634-11ed-82a9-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "40da9632-5ba9-11ed-bc05-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "99555d56-57a8-11ed-8a30-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "969cb3b4-56f6-11ed-8e7d-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "7c9031c0-508f-11ed-893e-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "51fe5ada-f875-11ec-b37d-6e9d9fc345db",
+        "tareas": []
+    },
+    {
+        "ctref": "645a9122-5b84-11ed-ae13-d207e38877db",
+        "tareas": [
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "72e4b32e-5d02-11ed-bb3d-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "8aca2a6a-56fd-11ed-bf94-d207e38877db",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "124d1616-5ee0-11ed-bf4d-76e8b42b00ab",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "a114422e-5b3a-11ed-9ecf-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "908b1646-53d1-11ed-aaa8-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "4b9c8e84-560b-11ed-aca2-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "11e95a08-5b8a-11ed-a669-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "4d6febae-5578-11ed-83f4-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "66d7ca94-57b7-11ed-8bc2-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "35b84352-5ac9-11ed-a510-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "038ba716-56ff-11ed-9d29-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "46e8ab2c-5c49-11ed-b55f-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "c87ce3a2-57b1-11ed-aece-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "dfdad55e-56d0-11ed-8626-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "a25eb9b0-4b0f-11ed-9415-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "a754f842-5566-11ed-9467-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "fe0266b0-4581-11ed-81c4-665b1795c5de",
+        "tareas": []
+    },
+    {
+        "ctref": "1fbdaa3c-549e-11ed-a5f2-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "fc335ae8-5d27-11ed-b3e4-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "b8568b9e-5ac3-11ed-b264-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "5026e140-5ac3-11ed-b9e4-d207e38877db",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "7cf07334-552e-11ed-9b4c-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "2836ad8a-5aed-11ed-8ef7-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "65c09efc-5635-11ed-85e8-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "01c9606a-5c56-11ed-9ffb-b2995f6bd5a0",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "67c2485c-5c8b-11ed-ab91-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "741736c0-5e9e-11ed-9f9f-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "5a6b92ce-5c65-11ed-92ed-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "f1a7b336-5399-11ed-93db-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "86f4ac9c-53da-11ed-9986-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "7b014a0c-5610-11ed-ae55-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "88f2b59c-56d8-11ed-8edd-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "b87041cc-5c55-11ed-a42e-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "84bbaae4-562c-11ed-8cb0-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "e08cc0d8-5b95-11ed-905e-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "df4bded0-56d0-11ed-97d1-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "afce372e-5acd-11ed-9d3f-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "714d4928-57a7-11ed-9619-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "fea08218-563f-11ed-85e8-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "dc07654c-5acb-11ed-aa0c-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "81d16fae-514e-11ed-8cf1-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "9a139d78-50c0-11ed-98e3-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "bbfb738e-53ae-11ed-8db3-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "423bdaa8-53e4-11ed-ab46-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "4d2c5bbe-5ae6-11ed-a27b-d207e38877db",
+        "tareas": [
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "76911884-5ebd-11ed-b9c3-d207e38877db",
+        "tareas": [
+            "ins_pagar_inscripcion"
+        ]
+    },
+    {
+        "ctref": "470ffeee-5eb9-11ed-a683-d207e38877db",
+        "tareas": [
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "5cf451d2-5ece-11ed-9604-d207e38877db",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "018184aa-5640-11ed-966c-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "0eca100c-5ee0-11ed-92d2-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "1feb89da-5ee3-11ed-975b-b2995f6bd5a0",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "928f9744-5617-11ed-b3cd-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "82aa5620-5bbc-11ed-a359-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "86dc64ae-5bbc-11ed-9aa9-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "509c5724-5aee-11ed-832d-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "476a6a84-560b-11ed-a7e5-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "9aa44952-5bc6-11ed-b841-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "c23b07cc-5c4c-11ed-87a1-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "d8b7bda8-5c63-11ed-bf9b-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "d4327cba-561d-11ed-b925-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "d6fbffa4-5797-11ed-8696-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "e229a4ee-5aa3-11ed-97e6-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "f2e99720-5c4d-11ed-bc07-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "d2b3343c-56ff-11ed-b05a-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "71a2a888-5797-11ed-a75f-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "679c281c-57b7-11ed-b60f-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "fd44e1ec-5604-11ed-afa4-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "3196e30c-5af4-11ed-8d53-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "b7b7a868-5185-11ed-9439-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "dd404452-5219-11ed-a268-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "99a10202-54e1-11ed-8c8a-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "1b82d066-549c-11ed-8753-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "c4d91dbc-442c-11ed-adb3-c2768c90c98c",
+        "tareas": []
+    },
+    {
+        "ctref": "bb10e640-5eb5-11ed-9bf7-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi",
+            "ins_adj_soap_dealer"
+        ]
+    },
+    {
+        "ctref": "1248a9ee-5eba-11ed-9085-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "a7b38a94-5b77-11ed-bbf6-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "5c344216-5ece-11ed-b9fb-76e8b42b00ab",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "b74010a4-5eb5-11ed-af75-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "b619a410-5eb5-11ed-823f-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "304149e0-53a9-11ed-90d6-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "ddde3aec-5b8b-11ed-b2e8-d207e38877db",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "01c72cda-54a1-11ed-a71f-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "8cbdd074-5bbc-11ed-bdb7-d207e38877db",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "898235e2-53da-11ed-8ac5-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "9c78bd72-53a5-11ed-8558-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "ee89c9a6-57ad-11ed-882c-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "593199c6-5611-11ed-8e9e-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "5323b70c-5531-11ed-bd98-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "b3d71b56-5eb5-11ed-9641-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa"
+        ]
+    },
+    {
+        "ctref": "e20b9b00-5ac8-11ed-af37-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "8ad16690-55fe-11ed-90de-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "ef854d0a-5c7e-11ed-9b2a-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "d4623f3a-570e-11ed-9605-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "48ad94be-56e4-11ed-911a-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "55c329b8-5165-11ed-b774-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "f8dcce04-508b-11ed-a759-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "0db4b7ee-5468-11ed-9ad8-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "5a4db0e0-546f-11ed-97f7-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "a8714244-507f-11ed-8df9-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "62053bfa-4b41-11ed-bd55-2206b3d00bdc",
+        "tareas": []
+    },
+    {
+        "ctref": "65a2f24a-5b84-11ed-8307-d207e38877db",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "d430ee4c-5eb3-11ed-9536-d207e38877db",
+        "tareas": [
+            "ins_incluir_nomina_cierre",
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "b2f80d62-5eb5-11ed-954f-b2995f6bd5a0",
+        "tareas": [
+            "ins_recepcionar_chi",
+            "ins_retirar_placa"
+        ]
+    },
+    {
+        "ctref": "ba5f9b1a-5eb5-11ed-adc3-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "aab9b55e-5b7e-11ed-a704-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "b97ba1bc-5eb5-11ed-b904-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "8a9a0858-56fd-11ed-b857-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "02089bac-54a1-11ed-9e73-ea08fa91bd7a",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "89bf9312-5bbc-11ed-8e4a-76e8b42b00ab",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "e1c9fe1e-5c6e-11ed-8900-d207e38877db",
+        "tareas": [
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "5c3b70b0-5e9f-11ed-b84e-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "35d34460-5941-11ed-8322-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "2ff4af98-5b35-11ed-aeac-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "55daca04-5b8e-11ed-8dae-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "1851bc92-5b3e-11ed-a693-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "e15fce46-5ea7-11ed-b908-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "a69329f2-5623-11ed-82ef-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "8442cef8-562c-11ed-92cf-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "c5a0d450-5ac1-11ed-8756-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "4d08816c-5578-11ed-82f4-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "401ee018-5ba9-11ed-a0f2-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "16506fea-4bc3-11ed-a5c3-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "0efddb7c-5089-11ed-9ae8-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "c116162a-ba67-11ec-b87b-fe2780dcd8d1",
+        "tareas": []
+    },
+    {
+        "ctref": "b15707da-57ba-11ed-8c7c-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "12191578-5ee0-11ed-8679-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "f6ebeaa4-56c5-11ed-831a-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "f1f3a638-5399-11ed-8a83-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "eeb1f392-5cc9-11ed-bab7-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "004feb02-5ede-11ed-a55a-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "85f2e4bc-5646-11ed-a5c1-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "ad009d8a-55f4-11ed-97f1-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "51f2a6c4-5bbf-11ed-be00-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "f493646a-5712-11ed-a3c4-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "87c4cd86-5ad4-11ed-994c-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "b5cd6064-4966-11ed-bed7-c2768c90c98c",
+        "tareas": []
+    },
+    {
+        "ctref": "554e4ab4-5b7c-11ed-bf84-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "8bb421b0-56fd-11ed-b754-d207e38877db",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "42fc6588-5c78-11ed-8716-76e8b42b00ab",
+        "tareas": [
+            "ins_spie_rectificar"
+        ]
+    },
+    {
+        "ctref": "cb7f30ce-55f8-11ed-893d-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "80ec6d5a-5bbc-11ed-9e66-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "4b41f1f4-560b-11ed-895b-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "462d41a0-5c37-11ed-80a9-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "d22b0388-5c7b-11ed-9350-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "59e68082-56f9-11ed-bb6d-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "94f03f20-5c70-11ed-ac4d-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "7a4aac7c-5c62-11ed-b5fd-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "5a7bea6e-546f-11ed-bd7a-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "79d7d676-5469-11ed-b339-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "b21cf3c0-4331-11ed-aaee-c2768c90c98c",
+        "tareas": []
+    },
+    {
+        "ctref": "aba92974-53de-11ed-a963-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "9c77c8f0-50c0-11ed-8676-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "1145f7e2-5ee0-11ed-a414-d207e38877db",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "881ef462-5b8f-11ed-8c1e-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "14b794ce-5eba-11ed-9fd6-76e8b42b00ab",
+        "tareas": [
+            "ins_recepcionar_chi",
+            "ins_retirar_placa"
+        ]
+    },
+    {
+        "ctref": "2ae7cad8-5d0d-11ed-9cf8-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "6e3a09dc-5c3f-11ed-916b-b2995f6bd5a0",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "63cb208c-5c65-11ed-87c1-d207e38877db",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "903a56b2-5c6d-11ed-a132-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "d8a9f8ee-5ac9-11ed-aef8-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "451c1888-5c58-11ed-8689-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "e48e0ba8-5c4c-11ed-97ce-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "84987958-5bbc-11ed-bc06-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "b01a3512-5ac7-11ed-8583-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "8f63a02e-5bbc-11ed-bd06-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "99fc9576-56e5-11ed-98e0-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "24f9bf6a-5609-11ed-addc-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "4eb0d3d4-5578-11ed-b40b-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "5d4e8ee4-57a9-11ed-9052-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "f5bbd23a-508e-11ed-838a-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "be26710e-522d-11ed-b48f-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "87a9442a-5549-11ed-8e90-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "166e50f2-a76c-11eb-a9c6-32d8a3617607",
+        "tareas": []
+    },
+    {
+        "ctref": "28be14d8-5ae2-11ed-9148-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "f3f81770-2e0a-11ed-8b8e-62d86f2108e2",
+        "tareas": []
+    },
+    {
+        "ctref": "9e3a66b8-56d6-11ed-9c9d-76e8b42b00ab",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "7914212a-5cfe-11ed-9216-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "1ee99bea-53d9-11ed-aeb9-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "b7909a32-56f5-11ed-a4fb-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "d3d6acc0-5eb3-11ed-92d6-d207e38877db",
+        "tareas": [
+            "ins_incluir_nomina_cierre"
+        ]
+    },
+    {
+        "ctref": "49517746-5bee-11ed-b763-76e8b42b00ab",
+        "tareas": [
+            "ins_recepcionar_nomina"
+        ]
+    },
+    {
+        "ctref": "2a9025ae-5483-11ed-b9a3-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "90511c5c-56d8-11ed-9a09-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "23ea95f4-5ac8-11ed-862c-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "c5ea2488-562b-11ed-8587-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "83aa6510-5478-11ed-9c09-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "c4022a1c-5180-11ed-b5a5-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "70aaa5ac-5549-11ed-a229-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "1505ef16-5eba-11ed-ae73-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa"
+        ]
+    },
+    {
+        "ctref": "10b7a36e-5eba-11ed-b3af-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer"
+        ]
+    },
+    {
+        "ctref": "27f6d23a-5ea0-11ed-82a7-d207e38877db",
+        "tareas": [
+            "ins_pagar_inscripcion"
+        ]
+    },
+    {
+        "ctref": "bc74dee2-5eb5-11ed-9026-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "2fa1b240-53a9-11ed-81ec-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "8b58cac2-56fd-11ed-98a8-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "c735bc74-556a-11ed-8a3d-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "123ec9d0-5bc0-11ed-b606-d207e38877db",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "8d501e48-5bbc-11ed-ac02-76e8b42b00ab",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "d8e16e32-560a-11ed-9aa2-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "16cd4ec2-5b3e-11ed-9698-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "fbaeb842-5c4b-11ed-bbad-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "cdf9b784-5b93-11ed-99c2-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "d972fc58-5c63-11ed-955c-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "dd044228-5abf-11ed-8d44-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "3a8cb2c8-5790-11ed-8377-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "2624a240-5b88-11ed-b9ee-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "f67a6292-5712-11ed-8cf3-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "2b4b1146-5ab6-11ed-89e9-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "08892020-5706-11ed-93d0-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "9819d300-5ac7-11ed-9810-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "80b4a884-f89d-11ec-9a2c-6e9d9fc345db",
+        "tareas": []
+    },
+    {
+        "ctref": "3ef897fc-5185-11ed-8fba-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "ada4d224-5aea-11ed-ae4d-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "08e5b9e4-5c50-11ed-a845-d207e38877db",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "8b259f62-56fd-11ed-a0cc-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "0e2c155a-5ee0-11ed-ac01-b2995f6bd5a0",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "d4a834ec-5608-11ed-84b4-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "d8e236a8-56ed-11ed-bd45-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "89341666-5bbc-11ed-a4ba-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "fb959018-5ab8-11ed-88d7-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "0821f81e-56c5-11ed-9191-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "52594528-57aa-11ed-9ae0-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "4bf71dd8-5578-11ed-9fcf-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "62fc0e12-57b7-11ed-af1e-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "3ad8d6d6-5929-11ed-9b82-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "077adfe6-55fa-11ed-aef3-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "45d302de-549f-11ed-9942-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "03642070-53a7-11ed-9d7f-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "82fbc3f2-5478-11ed-9403-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "eecc9e9c-5eb6-11ed-8d82-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_incluir_nomina_cierre",
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "66898970-5635-11ed-8b01-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "194347f0-5eaf-11ed-98e6-76e8b42b00ab",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "77d0569c-5ebd-11ed-bbf1-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "9377138a-5ea0-11ed-a6f1-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "15bef9f6-5ea2-11ed-b98d-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "a9c76cd8-5d25-11ed-adfe-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "4811d17a-560b-11ed-8252-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "0d91f9f4-5eb1-11ed-9742-76e8b42b00ab",
+        "tareas": [
+            "ins_pagar_iv"
+        ]
+    },
+    {
+        "ctref": "11ae7204-5b8e-11ed-a791-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "f7a78b9a-5712-11ed-826f-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "1a886dd8-549c-11ed-87e5-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "95f265ba-518a-11ed-9185-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "1fbe43a4-546a-11ed-b9a0-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "e74ec004-552a-11ed-bf22-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "ef18aa68-515e-11ed-be2c-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "d54be82c-5eb3-11ed-bb63-d207e38877db",
+        "tareas": [
+            "ins_incluir_nomina_cierre",
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "ef771b68-5cc9-11ed-ac31-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "113c3f2a-5eba-11ed-a649-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "12b71a84-5bc0-11ed-ad18-d207e38877db",
+        "tareas": [
+            "ins_muni_gestionar_pcv"
+        ]
+    },
+    {
+        "ctref": "020783ea-5c56-11ed-8f9f-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "3ac6efe8-5ec4-11ed-9efa-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "ad54c5c2-5eaf-11ed-84a9-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "1553702e-5ee2-11ed-93c2-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "a6872dec-5497-11ed-9485-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "894a2eec-5469-11ed-b16f-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "13201c66-5bb9-11ed-82f0-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "4c2bea54-5578-11ed-8301-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "22caddc2-5619-11ed-97aa-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "e9a0b6ea-4fcc-11ed-bf8b-6274cfdb0210",
+        "tareas": []
+    },
+    {
+        "ctref": "452dc806-546c-11ed-947d-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "466f1b7e-549f-11ed-884b-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "41d913f0-53e4-11ed-b3d2-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "15e72eec-54a9-11ed-adcb-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "d48de048-5eb3-11ed-9b26-76e8b42b00ab",
+        "tareas": [
+            "ins_retirar_placa"
+        ]
+    },
+    {
+        "ctref": "0fbfd212-5ee0-11ed-8c2a-b2995f6bd5a0",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "4651e81a-5ec2-11ed-b7e3-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa"
+        ]
+    },
+    {
+        "ctref": "30a7111c-5ae3-11ed-a8af-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "4fad3a50-5b88-11ed-9554-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "a0d43102-5eaa-11ed-b22d-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_incluir_nomina_cierre",
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "a12001c2-5eaa-11ed-90b4-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_incluir_nomina_cierre",
+            "ins_esperar_liquidacion_primera"
+        ]
+    },
+    {
+        "ctref": "cf373bd6-5ea3-11ed-b66a-76e8b42b00ab",
+        "tareas": [
+            "ins_adj_soap_dealer",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "76fa27e8-5ebd-11ed-97fc-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "91333a0e-5e9b-11ed-b720-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "6ce23d9e-5ab8-11ed-849f-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "bf1f9a82-5c54-11ed-996a-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "bf9ad292-5c54-11ed-8499-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "86ab1e60-53da-11ed-b1a7-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "88685030-5469-11ed-ac85-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "bee6bc04-56fe-11ed-9355-d207e38877db",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "a85d6538-5c75-11ed-9d35-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "9a67de0e-5789-11ed-8111-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "eb0376b6-56d0-11ed-8139-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "820e0892-5c4d-11ed-add3-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "4d241850-5703-11ed-81c8-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "4b98863a-5396-11ed-95d2-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "bf6cad58-54b2-11ed-8df1-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "02506d1c-5c56-11ed-a928-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "3334a386-5c82-11ed-b118-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "29b72dba-5aed-11ed-81e1-d207e38877db",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "c7677020-556a-11ed-b8c1-56f5bb686307",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "d9509616-56ed-11ed-9744-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "805650a4-5bbc-11ed-b25e-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "9b10ea38-5c3b-11ed-9cce-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "2d3bc1fa-5ad2-11ed-bf6b-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "129e1e4e-5625-11ed-934d-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "d7ee386c-5b7c-11ed-b3af-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "c8100fe4-5486-11ed-a9ff-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "603714ae-5183-11ed-9ecd-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "f6d7a7ee-5394-11ed-ac34-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "47d75294-5547-11ed-b939-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "01734946-5c56-11ed-aebc-76e8b42b00ab",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "70d60f1e-5ec5-11ed-8e25-d207e38877db",
+        "tareas": [
+            "ins_complementar"
+        ]
+    },
+    {
+        "ctref": "6643395c-5635-11ed-9b46-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "1dfaf554-53ab-11ed-b497-9afd8b7aa4e7",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "5a30ef3a-5ec1-11ed-9903-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "2c74e9e6-5d29-11ed-ba12-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "2b2d64ea-5483-11ed-81e1-ee429ef8416e",
+        "tareas": []
+    },
+    {
+        "ctref": "53de6986-5b8e-11ed-b27f-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "078a2704-546e-11ed-be62-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "05fbdb1e-5d0e-11ed-9642-d207e38877db",
+        "tareas": [
+            "ins_retirar_placa"
+        ]
+    },
+    {
+        "ctref": "ca28e3b6-5bbe-11ed-a082-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "3709bcde-5bc0-11ed-974d-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "fa7d7d78-570a-11ed-aa47-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "4f191bd8-5578-11ed-b546-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "83f8988a-5495-11ed-a0f9-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "77da511e-546e-11ed-b8bc-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "4ee5854e-5ba3-11ed-b1f6-76e8b42b00ab",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "641f7540-5ea1-11ed-9417-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "e23a6c8c-5d0c-11ed-adc2-b2995f6bd5a0",
+        "tareas": []
+    },
+    {
+        "ctref": "7a036372-56c1-11ed-85ca-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "8443602c-563e-11ed-af4e-56f5bb686307",
+        "tareas": [
+            "ins_despacho_cliente_nomina"
+        ]
+    },
+    {
+        "ctref": "3ee680a6-5c81-11ed-a2fe-b2995f6bd5a0",
+        "tareas": [
+            "ins_retirar_placa",
+            "ins_recepcionar_chi"
+        ]
+    },
+    {
+        "ctref": "6e37be34-5186-11ed-b70d-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "74201f10-53b3-11ed-ac4b-ee429ef8416e",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "6e5c285c-57b0-11ed-aa6b-76e8b42b00ab",
+        "tareas": [
+            "ins_facturar_primeras"
+        ]
+    },
+    {
+        "ctref": "9412e478-5643-11ed-86f7-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "5059259e-5aee-11ed-85a8-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "aae88f02-5af0-11ed-ba2c-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "938d0ab2-5c36-11ed-ba02-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "b5e7fb9c-57f6-11ed-ac83-56f5bb686307",
+        "tareas": []
+    },
+    {
+        "ctref": "1f305a8c-56e3-11ed-ae59-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "1d3abd68-5b8d-11ed-b372-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "8d204bec-5634-11ed-8b63-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "d8500240-5b7c-11ed-a8d5-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "ac0f0268-55f4-11ed-8e71-76e8b42b00ab",
+        "tareas": []
+    },
+    {
+        "ctref": "37fa0e94-556e-11ed-be97-d207e38877db",
+        "tareas": []
+    },
+    {
+        "ctref": "e9b1d7a0-4fc6-11ed-a7ed-9afd8b7aa4e7",
+        "tareas": []
+    },
+    {
+        "ctref": "5a043e76-44c3-11ed-b734-c2768c90c98c",
+        "tareas": []
+    },
+    {
+        "ctref": "4b7397d6-5160-11ed-a51b-ea08fa91bd7a",
+        "tareas": []
+    },
+    {
+        "ctref": "4ac39768-547c-11ed-93bf-ee429ef8416e",
+        "tareas": []
+    }
+]
