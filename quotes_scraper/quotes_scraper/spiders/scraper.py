@@ -31,7 +31,7 @@ class Scrapy (scrapy.Spider):
                 SELECT `ttlchk-cloud.vehiculos_nuevos_prod.tarea`.contentref,`ttlchk-cloud.vehiculos_nuevos_prod.tarea`.nombre
                 FROM `ttlchk-cloud.vehiculos_nuevos_prod.tarea` 
                 JOIN `ttlchk-cloud.vehiculos_nuevos_prod.servicio` ON `ttlchk-cloud.vehiculos_nuevos_prod.servicio`.unique_id=`ttlchk-cloud.vehiculos_nuevos_prod.tarea`.contentref
-                WHERE `ttlchk-cloud.vehiculos_nuevos_prod.tarea`.fecha_ini is not null and `ttlchk-cloud.vehiculos_nuevos_prod.tarea`.fecha_fin is null and  `ttlchk-cloud.vehiculos_nuevos_prod.servicio`.es_caso_devuelto = FALSE and TIMESTAMP(`ttlchk-cloud.vehiculos_nuevos_prod.tarea`.ultima_actualizacion) < TIMESTAMP('''+datetime.now()+''') 
+                WHERE `ttlchk-cloud.vehiculos_nuevos_prod.tarea`.fecha_ini is not null and `ttlchk-cloud.vehiculos_nuevos_prod.tarea`.fecha_fin is null
             '''
         query_job = client.query(query)
         data=[]
@@ -69,7 +69,7 @@ class Scrapy (scrapy.Spider):
             answ={}
             body=[]
             exit=pos=0
-            for ct in resp:
+            for ct in respuesta:
                 bd_task=ct['tareas']
                 services_task=ct['tareas_service']
                 estado=[]
